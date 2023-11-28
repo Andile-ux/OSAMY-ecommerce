@@ -1,0 +1,45 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Osamy",
+            "email": "awesome@yahoo.com",
+            "password": "Awe@012"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Diamond Ring",
+            "price": "R5000",
+            "category": "Rings",
+            "description": "24-Karat",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvO5jXQ-vG0PJDeM-1BPDH6Lw9ucXznr_H_3IxnOBoqLAN_ZgOSOFFHgfUAEJfaHUmZevu0316MOkt6Cqu9BbgUrz0v-_ns7RnsbhOwE1TP7ESMQZ3XloFquzWUSUNUudo1osRVTMnwnc&usqp=CAc"
+        },
+        {
+            "id": 2,
+            "title": "Gold Ring",
+            "price": "R5000",
+            "category": "Rings",
+            "description": "10-bars",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc"
+        }
+    ],
+    "carts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "date": "2023-11-28",
+            "products": [
+                {
+                    "productId": 2,
+                    "quantity": 3
+                },
+                {
+                    "productId": 1,
+                    "quantity": 6
+                }
+            ] 
+        }
+    ]
+}
