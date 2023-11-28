@@ -11,7 +11,7 @@
         {
             "id": 1,
             "title": "Diamond Ring",
-            "price": "R5000",
+            "price": "R 5000",
             "category": "Rings",
             "description": "24-Karat",
             "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvO5jXQ-vG0PJDeM-1BPDH6Lw9ucXznr_H_3IxnOBoqLAN_ZgOSOFFHgfUAEJfaHUmZevu0316MOkt6Cqu9BbgUrz0v-_ns7RnsbhOwE1TP7ESMQZ3XloFquzWUSUNUudo1osRVTMnwnc&usqp=CAc"
@@ -19,11 +19,796 @@
         {
             "id": 2,
             "title": "Gold Ring",
-            "price": "R5000",
+            "price": "R 5000",
             "category": "Rings",
             "description": "10-bars",
             "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc"
+        },
+        {
+            "id": 3,
+            "title": "14kt Gold Diamond Alinea Ring",
+            "price": "R 3 120.00",
+            "category": "Rings",
+            "description": "Sold exclusively in South Africa by Collective & Co., this La Kaiser Gold Diamond Alinea is the perfect amount of subtle sparkle, and is the type of fine jewellery item that you can pair with pretty much anything and everything. Made of solid 14kt gold and pavé set with 5 natural white diamonds, this delicate ring completes any look for any season.",
+            "image": "https://collectiveandco.co.za/cdn/shop/products/IMG_0934.jpg?v=1612103716&width=1206"
+        },
+        {
+            "id": 4,
+            "title": "Petite Pavé Diamond Ring",
+            "price": "R 7 490.00",
+            "category": "Rings",
+            "description": "This petite diamond ring features scalloped pavé diamonds in elegantly sculpted prongs that extend one half of the way around the band. It is a beautiful complement to many delicate engagement rings.",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9XPvxwqjp52Ku4AY6s5A2b8vNlnO5PancqkcixSGBBeuJ5KG38ZDo0EEa3lbtoCmvfY8Z-keUHRO0YEooXj4Cp5dX99WBjuiv7OQ2j0JqmhUN2x3YE5MgAw&usqp=CAE"
+        },
+        {
+            "id": 5,
+            "title": "White Gold · Diamond",
+            "price": "R 9 250.00",
+            "category": "Rings",
+            "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc"
+        },
+        {
+            "id": 6,
+            "title": "9ct White Gold Diamond Ring",
+            "price": "R 5 500.00",
+            "category": "Rings",
+            "description": "Description: 9ct White Gold Diamond Ring set with: 1 x Square Cut Diamond of approx. 0.42cts J/K SI Total Diamond Carat: 0.42cts Finger Size: L 1/2 Mass: 2.4g",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxN9SfVCOBnYOaiBpQYdw7Sg64zM45xNmSR2tXsj43F5Uc7rJqsZS-GOgE8Ql4ggNBMd0qhR1uWFo9UNwOEMjzOB-i_JlB&usqp=CAY"
+        },
+        {
+            "id": 7,
+            "title": "Tiny Solitaire Diamond Ring",
+            "price": "R 3 750.00",
+            "category": "Rings",
+            "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
+            "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750"
+        },
+        {
+            "id": 8,
+            "title": "9ct White Gold Illusion Set Cluster Twist Band Diamond Ring",
+            "price": "R 21 595.00",
+            "category": "Rings",
+            "description": "The Bella Collection celebrates the beauty of true love. Inspired by the romantic design of vintage jewellery, this exquisite engagement ring is the perfect way to express your love…for years to come. Set in 9ct White Gold, this piece features 0.50ct of white, round brilliant diamonds in a fine pav? setting with antique millgrain detailing. The centre is further accentuated by a diamond halo…making this ring a little piece of heaven!",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "title": "Women's · White Gold · Diamond",
+            "price": "R 22 366.00",
+            "category": "Rings",
+            "description": "This collection is available in various diamond sizes. As the diamond grows the Protea setting blooms. Starting with a 0.25ct round brilliant cut diamond, the setting features four claws with closed Protea Petals. As the diamond reaches 0.50cts the setting blooms to 6 claws with closed Protea Petals. Once the diamond reaches 1ct or larger, the setting flourishes into 6 claws with open Protea Petals.",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStTx-2Dvgyz1BeY00ilPtGXfHlVsm8jUknnRhjqrltB6uC2l8euFeki8O_SRjAZH0s06q-A4LK2KGhK_JqvwCds0bIjyvFIHWB__DxEwGR3xHNiXbdfcx4hJo&usqp=CAE"
+        },
+        {
+            "id": 10,
+            "title": "Women's · White Gold · Diamond",
+            "price": "R 10,900.00",
+            "category": "Rings",
+            "description": "A striking balance between classic and organic, this ring looks gorgeous as a dainty Engagement ring or could make for a stunning anniversary gift to be treasured for a lifetime. Best of all its currently on a LAUNCH SALE! Oval Diamond Ring is crafted out of solid 9ct gold and is set with the following: 1 x 0.40ct Oval Cut Lab Diamond in the centre (Colour: F/G, Clarity: VVS/VS) 1 x 0.01ct and 2 x 0.015ct Round Brilliant Cut Lab Diamonds in the Band.",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5EsAacJw4HnL_IB_wP3dUKBwpYy6lhRE58REjXyEsaQ3a9RWWPDWp1hwsrE3LgkP8BeqL5I1iP_q1xOQNfnAg_E07IokA7UScTbINqY_8mC35ALjxdFa4&usqp=CAE"
+        },
+        {
+            "id": 11,
+            "title": "0.015ct Diamond Eternity Ring - Platinum",
+            "price": "R 17 251.15",
+            "category": "Rings",
+            "description": "Our Classic 0.015ct Diamond Eternity Ring is micro set with 0.015ct Diamonds and is available in 9kt, 14kt or 18kt Rose, Yellow or White Gold and Platinum. A modern example of classic sophistication, this makes for a truly timeless wedding ring or stacking ring.",
+            "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/62942db81fac3png_8.png"
+        },
+        {
+            "id": 12,
+            "title": "White Gold 1ct Diamond Solitaire Forever Ring",
+            "price": "R 110 000.00",
+            "category": "Rings",
+            "description": "This striking 18ct white Gold solitaire ring is expertly set with a brilliant 1ct Diamond in a timeless six-claw solitaire setting. The ultimate engagement ring.The word “FOREVER” is engraved into the shank.",
+            "image": "https://thefoschini.vtexassets.com/arquivos/ids/99162654-1200-1200?v=638357893524670000&width=1200&height=1200&aspect=true"
+        },
+        {
+            "id": 13,
+            "title": "White Gold 2ct Diamond Band",
+            "price": "R 39 999.00",
+            "category": "Rings",
+            "description": "This radiant 18ct white Gold anniversary band features 2ct of claw-set Diamonds.The word 'LOVE' is engraved into the shank. 12 x round-cut Diamonds, Total Diamond weight: 2.00ct, Diamond colour: MN, Diamond clarity: SI",
+            "image": "https://thefoschini.vtexassets.com/arquivos/ids/99300522-1200-1200?v=638357963993900000&width=1200&height=1200&aspect=true"
+        },
+        {
+            "id": 14,
+            "title": "White Gold 0.45ct Diamond Baguette Cluster Halo Ring",
+            "price": "R 22 999.00",
+            "category": "Rings",
+            "description": "Expertly crafted in 9ct Rose Gold, this opulent ring features a rectangle cluster of round-cut and baguette-cut Diamonds in a halo setting and a band sparkling with pave set stones. The total Diamond weight is 0.45 carats. 9ct Rose Gold 51 x Diamonds Total Diamond weight: 0.45ct Diamond colour: JK Diamond clarity I1/2",
+            "image": "https://thefoschini.vtexassets.com/arquivos/ids/99428396-1200-1200?v=638358026902170000&width=1200&height=1200&aspect=true"
+        },
+        {
+            "id": 15,
+            "title": "Gabriella Diamond Engagement Ring",
+            "price": "R 56 860.00",
+            "category": "Rings",
+            "description": "A Gleaming 4 Round prong surrounded by a unique Halo and 3 rows of channel set stones each side in a Cathedral design with hidden accent stones.",
+            "image": "https://ralphjacobs.co.za/cdn/shop/products/9.png?v=1677587838"
+        },
+        {
+            "id": 16,
+            "title": "White Gold 0.90ct Diamond 125 Year Anniversary Ring",
+            "price": "R 39 999.00",
+            "category": "Rings",
+            "description": "Expertly crafted in 18ct White Gold, this magnificent ring was created to celebrate our 125 anniversary. It features a pillow-shaped cluster of Diamonds in a double halo setting with yet more fine-cut stones on the shank. It sparkles with 125 Diamonds with a total weight of 0.90ct. 9ct White Gold 125 x round-cut DiamondsTotal Diamond weight: 0.90ct Diamond colour: KL Diamond clarity: SI",
+            "image": "https://thefoschini.vtexassets.com/arquivos/ids/99733836-1200-1200?v=638358238989570000&width=1200&height=1200&aspect=true"
+        },
+        {
+            "id": 17,
+            "title": "Tessa Moissanite Engagement Ring",
+            "price": "R 61,590.00",
+            "category": "Rings",
+            "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
+            "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938"
+        },
+        {
+            "id": 18,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 35,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 36,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 37,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 38,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 39,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 40,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 41,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 42,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 43,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 44,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 45,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 46,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 47,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 48,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 49,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 50,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 51,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 52,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 53,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 54,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 55,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 56,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 57,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 58,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 59,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 60,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 61,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 62,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 63,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 64,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 65,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 66,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 67,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 68,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 69,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 70,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 71,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 72,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 73,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 74,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 75,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 76,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 77,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 78,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 79,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 80,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 81,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 82,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 83,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 84,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 85,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 86,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 87,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 88,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 89,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 90,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 91,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 92,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 93,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 94,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 95,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 96,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 97,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 98,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 99,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
+        },
+        {
+            "id": 100,
+            "title": "",
+            "price": "",
+            "category": "Rings",
+            "description": "",
+            "image": ""
         }
+        
     ],
     "carts": [
         {
