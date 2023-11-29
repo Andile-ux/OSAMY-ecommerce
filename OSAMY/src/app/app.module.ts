@@ -7,8 +7,10 @@ import { DisplayProductsComponent } from './components/display-products/display-
 import { CartComponent } from './components/cart/cart.component';
 import { LoginComponent } from './components/login/login.component';
 import { LandingComponent } from './components/landing/landing.component';
-//http
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
+import { RegisterComponent } from './components/register/register.component';
+import {ReactiveFormsModule} from '@angular/forms';
 
 
 @NgModule({
@@ -17,12 +19,15 @@ import { HttpClientModule } from '@angular/common/http';
     DisplayProductsComponent,
     CartComponent,
     LoginComponent,
-    LandingComponent
+    LandingComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -15,7 +15,6 @@ export class StoreServiceService {
 
   getAllProducts(){
 
-    
     return this.http.get(this.pruductsURL);
 
   }
