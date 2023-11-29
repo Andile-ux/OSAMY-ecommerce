@@ -18,4 +18,7 @@ export class StoreServiceService {
     return this.http.get(this.pruductsURL);
 
   }
+  deleteItem(id: any){
+    return this.http.delete(`${this.usersURL}/${id}`);
+  }
 }
