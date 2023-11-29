@@ -7,17 +7,16 @@ import {StoreServiceService} from '../../services/store-service.service';
   styleUrls: ['./cart.component.css']
 })
 export class CartComponent implements OnInit{
-  constructor(private student:StoreServiceService){}
-  studentData:any=[];
+  constructor(private store:StoreServiceService){}
+  cartData:any=[];
   ngOnInit(): void {
-    this.student.getAllProducts().subscribe((allData)=>{
+    this.store.getAllProducts().subscribe((allData)=>{
       console.log(allData);
-      this.studentData=allData;
+      this.cartData=allData;
     })
   }
-  deleteItem(student_id: any){
-    //console.log(student_id)
-    this.student.deleteItem(student_id).subscribe((result)=>{
+  deleteItem(cart_id: any){
+    this.store.deleteItem(cart_id).subscribe((result)=>{
       //console.log(result);
       this.ngOnInit(); 
     });

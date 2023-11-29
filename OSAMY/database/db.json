@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "firstname": "Osa",
-      "lastname": "Osamy",
-      "email": "awesome@yahoo.com",
-      "password": "Awe@012",
-      "mobile": "09876"
-    },
-    {
       "firstName": "Maria",
       "lastName": "Sovara",
       "email": "maria@email.com",
@@ -827,21 +819,5 @@
       "image": "https://michaelkors.scene7.com/is/image/MichaelKors/MK6957-0040_1?wid=1300"
     }
   ],
-  "carts": [
-    {
-      "id": 1,
-      "userId": 1,
-      "date": "2023-11-28",
-      "products": [
-        {
-          "productId": 2,
-          "quantity": 3
-        },
-        {
-          "productId": 1,
-          "quantity": 6
-        }
-      ]
-    }
-  ]
+  "carts": []
 }
