@@ -13,35 +13,54 @@
     flex-wrap: wrap;
     gap: 4%;
     justify-content: space-between;
+    
 }
 .d-block{
     width: 100%;
     height: 30em;
 }
 .btm{
-    background-color: aliceblue;
+    background-color: rgb(223, 226, 229);
     height: 2%;
     width: 100%;
     padding-bottom: 0%;
 }
 .prod{
     padding-top: 1%;
-    flex-direction: row;
-    background-color: aqua;
+    box-shadow: 0.2em 0.2em #434141;
     column-gap: 400em;
     width: 14em;
     height: 18em;
     justify-content: space-between;
+    
 }
-.image{
-    height: 50%;
+.imageB{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+
 }
 .title{
-    height: 20%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 0.8em;
+    font-size: 0.8em;
 }
 .price{
-    height: 10%;
+    height: 7%;
+    display: flex;
+    justify-content: center;
+    font-size: 0.8em;
 }
 .view{
-    height: 18%;
+    height: 12%;
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    height: 100%;
+    width: 80%;
 }

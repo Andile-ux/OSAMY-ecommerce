@@ -56,15 +56,15 @@
         </div>
     </div>
     <div class="pDiv">
-        <div class="prod">
-            <div class="image">
-                e
+        <div class="prod" *ngFor="let item of pruductsData">
+            <div class="imageB">
+                <img class="image" src="{{item.image}}" alt="">
             </div>
             <div class="title">
-                4
+                <p>{{item.title}}</p>
             </div>
             <div class="price">
-                h
+                {{item.price}}
             </div>
             <div class="view">
                 <button>view</button>
