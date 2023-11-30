@@ -1,16 +1,28 @@
-<div style="height: 50px; width: fit-content; background-color: black;"></div>
-<div class="nav">
+<div style="height: 50px;  background-color: #C3A173; margin-top: 1rem; width: 1340px; margin-left: 3rem;"></div>
+<div class="nav flex items-center justify-between mr-16 ml-16">
   <div>
     <img style="width: 150px; height: 150px;" src="assets/osam_things-removebg-preview.png" alt="">
   </div>
-  <div></div>
+  <div class="flex justify-between gap-6 ;"> 
+      <select style="background-color: #C3A173; border-radius: 10px; width: 250px; height: 35px;" name="" id="">
+        <option style="background-color: white;" value="">Rings</option>g
+        <option style="background-color: white;" value="">Rings</option>
+        <option style="background-color: white;" value="">Watches</option>
+        <option style="background-color: white;" value="">Earrings</option>
+        <option style="background-color: white;" value="">Necklaces</option>
+        <option style="background-color: white;" value="">Bangles</option>
+      </select>
+      <a routerLink="display">Display</a>
+      <a routerLink="login">Login</a>
+      <a routerLink="cart">Cart</a>
+ 
+  </div>
 </div>
-<ul>
-  <li><a routerLink="display">Display</a></li>
-  <li><a routerLink="login">Login</a></li>
-  <li><a routerLink="cart">Cart</a></li>
-  <li></li>
-</ul>
+
+
+
+
+
 
 <router-outlet></router-outlet>
 <!-- <app-landing></app-landing> -->
