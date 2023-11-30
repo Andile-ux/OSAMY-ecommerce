@@ -93,3 +93,21 @@
     font-size: 0.7em;
     color: black;
 }
+.os{
+    position: absolute;
+    margin-top: -26em;
+    margin-left: 20em;
+    font-family: cursive;
+}
+.os2{
+    position: absolute;
+    margin-top: -24em;
+    margin-left: 20em;
+    font-family: cursive;
+}
+.os3{
+    position: absolute;
+    margin-top: -22em;
+    margin-left: 20em;
+    font-family: cursive;
+}
