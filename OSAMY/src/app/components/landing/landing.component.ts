@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { StoreServiceService } from 'src/app/services/store-service.service';
 
 @Component({
   selector: 'app-landing',

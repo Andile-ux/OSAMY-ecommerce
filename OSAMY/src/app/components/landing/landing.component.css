@@ -1,0 +1,47 @@
+.landing{
+    padding-right: 4%;
+    padding-left: 4%;
+}
+.cDiv{
+    background-color: antiquewhite;
+}
+.pDiv{
+    padding-top: 1.5%;
+    padding-right: 5.5%;
+    padding-left: 5.5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4%;
+    justify-content: space-between;
+}
+.d-block{
+    width: 100%;
+    height: 30em;
+}
+.btm{
+    background-color: aliceblue;
+    height: 2%;
+    width: 100%;
+    padding-bottom: 0%;
+}
+.prod{
+    padding-top: 1%;
+    flex-direction: row;
+    background-color: aqua;
+    column-gap: 400em;
+    width: 14em;
+    height: 18em;
+    justify-content: space-between;
+}
+.image{
+    height: 50%;
+}
+.title{
+    height: 20%;
+}
+.price{
+    height: 10%;
+}
+.view{
+    height: 18%;
+}
