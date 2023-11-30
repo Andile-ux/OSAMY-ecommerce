@@ -1,29 +1,3 @@
-<!--<div id="carouselExampleIndicators" class="carousel slide">
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="https://d3p6zcv5i2bwo8.cloudfront.net/storage/4490/65378a71a2860_P3_DC_Diamond-Facets_Home.jpg" class="d-block w-[70em]" alt="...">
-      </div>
-      <div class="carousel-item">
-        <img src="https://www.wholesalediamondsdirect.com.au/cdn/shop/files/Banner_2_2x_1e29ecfb-478d-4ed1-a532-89e16f93cb11.jpg?v=1659879756?q=5" class="d-block w-[70em]" alt="...">
-      </div>
-      <div class="carousel-item">
-        <img src="https://pmdiamond.com/wp-content/uploads/2020/06/Row-of-Diamonds.jpg" class="d-block w-[70em]" alt="...">
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-</div>-->
 
 
 <div class="landing">
@@ -36,10 +10,11 @@
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="https://d3p6zcv5i2bwo8.cloudfront.net/storage/4490/65378a71a2860_P3_DC_Diamond-Facets_Home.jpg" class="d-block" alt="...">
-              </div>
-              <div class="carousel-item">
                 <img src="https://www.wholesalediamondsdirect.com.au/cdn/shop/files/Banner_2_2x_1e29ecfb-478d-4ed1-a532-89e16f93cb11.jpg?v=1659879756?q=5" class="d-block" alt="...">
+              </div>
+              
+              <div class="carousel-item">
+                <img src="https://c4.wallpaperflare.com/wallpaper/131/792/15/diamond-wallpaper-preview.jpg" class="d-block" alt="...">
               </div>
               <div class="carousel-item">
                 <img src="https://pmdiamond.com/wp-content/uploads/2020/06/Row-of-Diamonds.jpg" class="d-block" alt="...">
@@ -53,13 +28,16 @@
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
             </button>
-            <button class="shopBtn">
-                <span class="txtView">Shop Now</span>
-            </button>
+            <a routerLink="display">
+                <button class="shopBtn">
+                    <span class="txtView">Shop Now</span>
+                </button>
+            </a>
+            
         </div>
     </div>
     <div class="pDiv">
-        <div class="prod" *ngFor="let item of pruductsData">
+        <div class="prod transform motion-safe:hover:scale-105" *ngFor="let item of pruductsData">
             <div class="imageB">
                 <img class="image" src="{{item.image}}" alt="">
             </div>

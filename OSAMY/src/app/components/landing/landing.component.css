@@ -34,8 +34,15 @@
     width: 14em;
     height: 18em;
     justify-content: space-between;
-    
+    animation: box-move 1s infinite alternate-reverse;
+    transition: transform 300ms;
+    margin: -3em 0 0 0;
+    margin-top: 3em;
 }
+.prod:hover{
+    animation: box-move-anim 1s infinite alternate-reverse;
+}
+
 .imageB{
     height: 60%;
     display: flex;
