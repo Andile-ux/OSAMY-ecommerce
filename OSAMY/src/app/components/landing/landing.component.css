@@ -14,20 +14,22 @@
     gap: 4%;
     justify-content: space-between;
     
+    
 }
 .d-block{
     width: 100%;
     height: 30em;
 }
 .btm{
-    background-color: rgb(223, 226, 229);
+
     height: 2%;
     width: 100%;
     padding-bottom: 0%;
 }
 .prod{
     padding-top: 1%;
-    box-shadow: 0.2em 0.2em #434141;
+    border: 2em;
+    box-shadow: 0.2em 0.2em 0.2em rgb(223, 226, 229);
     column-gap: 400em;
     width: 14em;
     height: 18em;
@@ -46,6 +48,7 @@
     justify-content: center;
     text-align: center;
     padding-top: 0.8em;
+    
     font-size: 0.8em;
 }
 .price{
@@ -53,6 +56,7 @@
     display: flex;
     justify-content: center;
     font-size: 0.8em;
+    padding-top: 0.4em;
 }
 .view{
     height: 12%;
@@ -63,4 +67,22 @@
 .image{
     height: 100%;
     width: 80%;
+}
+.shopBtn{
+    position: absolute;
+    margin-top: -8em;
+    margin-left: 20em;
+    
+    background-color: white;
+    border-radius: 5em;
+    width: 6em;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.txtView{
+    font-size: 0.7em;
+    color: black;
 }

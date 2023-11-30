@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class StoreServiceService {
 
-  pruductsURL = "http://localhost:3000/products";
+  pruductsURL = "https://fakestoreapi.com/products";
   usersURL = "http://localhost:3000/users";
   cartsURL = "http://localhost:3000/carts";
 
