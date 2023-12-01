@@ -5,37 +5,43 @@
               <table class="table table-responsive">
                   <thead>
                       <tr>
-                          <!-- <th>Sr.No</th> -->
                           <th>Product Image</th>
                           <th>Product Name</th>
-                          <!-- <th>Description</th> -->
                           <th>Price</th>
                           <th>Quantity</th>
-                          <!-- <th>Total</th> -->
                           <th>Action</th>
                       </tr>
                   </thead>
                   <tbody>
                       <tr *ngFor="let item of cartData; let i = index">
-                          <!-- <td>{{i+1}}</td> -->
-                          <td><img style="width: 120px;" src="{{item.image}}" alt=""></td>
+                          <td><img style="width: 7.5em;" src="{{item.image}}" alt=""></td>
                           <td>{{item.title}}</td>
-                          <!-- <td style="width: 25%;">{{item.description}}</td> -->
                           <th style="width: 12%;">{{item.price}}</th>
                           <td style="width: 12%;">{{item.quantity}}</td>
-                          <!-- <td style="width: 12%;">{{item.total}}</td> -->
+                          
                           <td>
-                              <button (click)="removeItem(item)" class="btn btn-danger"><i class="fa fa-trash-alt">X</i></button>
+                              <button (click)="removeItem(item)" class="btn btn-danger"><i class="fa fa-trash"></i></button>
                           </td>
                       </tr>
                       <tr>
-                          <td colspan="3"></td>
+                          <td colspan="2"></td>
                           <td><button (click)="emptycart()" class="btn btn-gray-400" style="background-color: #C3A173">Empty Cart</button></td>
-                          <td><button routerLink="/products" class="btn btn-gray-400" style="background-color: #C3A173">Shop More</button></td>
-                          <td><strong>Grand Total : R</strong></td>
+                          <td><button routerLink="/landing" class="btn btn-gray-400" style="background-color: #C3A173">Shop More</button></td>
+                          <td><button routerLink="/landing" class="btn btn-gray-400" style="background-color: #C3A173">CheckOut</button></td>
+
                       </tr>
                   </tbody>
               </table>
+
+              <div class="totals">
+                <span>Cart totals</span>
+                <div class="sub">
+                  x
+                </div>
+                <div class="total">
+                  <strong>Grand Total : R</strong>
+                </div>
+              </div>
           </div>
       </div>
   </div>
@@ -48,10 +54,10 @@
           <h5 class="card-title">user name</h5>
       </div>
       <div class="center">
-          <!-- <img src="https://rukminim1.flixcart.com/www/800/800/promos/16/05/2019/d438a32e-765a-4d8b-b4a6-520b560971e8.png?q=90" alt=""> -->
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CGJDDIer4VgDvjnR8V3wbc8fAaa0tHau-Q&usqp=CAU" alt="">
           <h4>Your cart is empty!</h4>
-          <h6>Add item to it now</h6>
-          <button routerLink="/landing" class="btn btn-primary">Shop Now</button>
+          <h6>Add item to your cart now</h6>
+          <button routerLink="/landing" class="btn btn-gray-400" style="background-color: #C3A173">Shop Now</button>
       </div>
   </div>
 </ng-container>
