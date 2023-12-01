@@ -7,7 +7,7 @@
 .dImg{
     width: 40%;
     height: 22em;
-    background-color: aqua;
+    background-color: #C3A173;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,5 +18,48 @@
 }
 .dDtl{
     width: 60%;
-    background-color: brown;
+    padding: 5%;
+}
+.title{
+    height: 30%;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.t{
+    font-size: 1.5em;
+}
+.price{
+    height: 10%;
+}
+.pr{
+    font-size: 1em;
+    font-weight:bold;
+}
+.desc{
+    padding-top: 1%;
+    height: 45%;
+}
+.d{
+    font-family: sans-serif;
+    text-align: center;
+}
+.btn{
+    padding-top: 1%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bt{
+    background-color: #C3A173;
+    border-radius: 2em;
+    width: 6em;
+    height: 2em;
+}
+.ac{
+    font-size: 0.7em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

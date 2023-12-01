@@ -28,7 +28,18 @@
         <img class="image" src="{{pruductData.image}}" alt="">
     </div>
     <div class="dDtl">
-        s
+        <div class="title">
+            <p class="t">{{pruductData.title}}</p>
+        </div>
+        <div class="price">
+            <p class="pr">{{pruductData.price}}</p>
+        </div>
+        <div class="desc">
+            <p class="d">{{pruductData.description}}</p>
+        </div>
+        <div class="btn">
+            <button (click)=addtocart(pruductData) class="bt"><span class="ac">Add to Cart</span></button>
+        </div>
     </div>
 
 </div>
