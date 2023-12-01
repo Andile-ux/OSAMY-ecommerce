@@ -55,9 +55,9 @@ export class LoginComponent implements OnInit{
   register(){
       this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
       if(this.registerForm==null){
-        alert("Registered successfully");
+        alert("Invalid");
       } else{
-        alert("Invalid")
+        alert("Registered successfully")
       } 
       
         this.registerForm.reset();
