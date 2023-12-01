@@ -5,7 +5,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	min-height: 100vh;
+	min-height: 75vh;
 	font-family: 'Jost', sans-serif;
 	background-image: url(https://legacyfinejewelers.com/wp-content/uploads/2017/10/jewelry-background-3.jpg);
 }
@@ -21,13 +21,13 @@
 #chk{
 	display: none;
 }
-.signup{
+.login{
 	position: relative;
 	width:100%;
 	height: 100%;
 }
 label{
-	color: #fff;
+	color: #C3A173;
 	font-size: 2.3em;
 	justify-content: center;
 	display: flex;
@@ -38,7 +38,7 @@ label{
 }
 input{
 	width: 60%;
-	height: 20px;
+	height: 25px;
 	background: #e0dede;
 	justify-content: center;
 	display: flex;
@@ -66,24 +66,25 @@ button{
 	cursor: pointer;
 }
 button:hover{
-	background: #C3A173;
+	background: #8f7d64;
 }
-.login{
-	height: 460px;
+.signup{
+	height: 470px;
 	background: #eee;
 	border-radius: 60% / 10%;
 	transform: translateY(-180px);
 	transition: .8s ease-in-out;
 }
-.login label{
+.signup label{
 	color: #C3A173;
 	transform: scale(.6);
+	font-size: 3.3em;
 }
 
-#chk:checked ~ .login{
+#chk:checked ~ .signup{
 	transform: translateY(-500px);
 }
-#chk:checked ~ .login label{
+#chk:checked ~ .signup label{
 	transform: scale(1);	
 }
 #chk:checked ~ .signup label{

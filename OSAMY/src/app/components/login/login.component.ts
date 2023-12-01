@@ -54,18 +54,20 @@ export class LoginComponent implements OnInit{
 
   register(){
       this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
-      if(this.registerForm==null){
+      if(this.registerForm == null){
         alert("Invalid");
+        
       } else{
         alert("Registered successfully")
       } 
-      
+    
         this.registerForm.reset();
         this.router.navigate(['login']);
       }, err=>{
         alert("Something went wrong")
       });
+      
     }
-
+    
 }
 
