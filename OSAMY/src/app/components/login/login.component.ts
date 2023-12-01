@@ -33,6 +33,11 @@ export class LoginComponent implements OnInit{
       const user = results.find((a:any)=>{
         return a.email === this.loginForm.value.email && a.password === this.loginForm.value.password
       });
+      if(this.registerForm==null){
+        alert("Registered successfully");
+      } else{
+        alert("Invalid")
+      } 
       if(user){
         alert("Login Success");
         this.loginForm.reset();
@@ -47,7 +52,12 @@ export class LoginComponent implements OnInit{
 
   register(){
       this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
+      if(this.registerForm==null){
         alert("Registered successfully");
+      } else{
+        alert("Invalid")
+      } 
+      
         this.registerForm.reset();
         this.router.navigate(['login']);
       }, err=>{
