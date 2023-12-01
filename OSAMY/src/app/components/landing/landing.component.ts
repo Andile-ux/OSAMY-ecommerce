@@ -1,5 +1,6 @@
 import { Component , OnInit} from '@angular/core';
 import { Router } from '@angular/router';
+import { CartService } from 'src/app/services/cart.service';
 import { StoreServiceService } from 'src/app/services/store-service.service';
 
 @Component({
@@ -11,7 +12,11 @@ export class LandingComponent implements OnInit{
 
 
 
-  constructor(private store: StoreServiceService, private router:Router) {
+  public productList : any ;
+  public filterCategory : any
+  searchKey:string ="";
+
+  constructor(private store: StoreServiceService,private cart: CartService, private router:Router) {
     
   }
 
@@ -22,6 +27,19 @@ export class LandingComponent implements OnInit{
       //assign to property
       this.pruductsData = allData;
     });
+    
+
   }
 
+  addtocart(item: any){
+    this.cart.addtoCart(item);
+  }
+  filter(category:string){
+    this.filterCategory = this.productList
+    .filter((a:any)=>{
+      if(a.category == category || category==''){
+        return a;
+      }
+    })
+  }
 }

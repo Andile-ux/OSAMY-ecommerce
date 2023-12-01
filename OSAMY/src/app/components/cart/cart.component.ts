@@ -1,5 +1,6 @@
 import { Component,OnInit } from '@angular/core';
 import {StoreServiceService} from '../../services/store-service.service';
+import { CartService } from 'src/app/services/cart.service';
 
 @Component({
   selector: 'app-cart',
@@ -7,18 +8,21 @@ import {StoreServiceService} from '../../services/store-service.service';
   styleUrls: ['./cart.component.css']
 })
 export class CartComponent implements OnInit{
-  constructor(private store:StoreServiceService){}
+  grandTotal !: number;
+  constructor(private store:CartService){}
   cartData:any=[];
   ngOnInit(): void {
-    this.store.getAllProducts().subscribe((allData)=>{
-      console.log(allData);
-      this.cartData=allData;
+    this.store.getProducts()
+    .subscribe(res=>{
+      this.cartData = res;
+      this.grandTotal = this.store.getTotalPrice();
     })
   }
-  deleteItem(cart_id: any){
-    this.store.deleteItem(cart_id).subscribe((result)=>{
-      //console.log(result);
-      this.ngOnInit(); 
-    });
+  removeItem(item: any){
+    this.store.removeCartItem(item);
   }
+  emptycart(){
+    this.store.removeAllCart();
+  }
+
 }

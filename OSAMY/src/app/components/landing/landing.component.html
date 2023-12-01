@@ -1,63 +1,63 @@
 
 
 <div class="landing">
-    <div class="cDiv">
-        <div id="carouselExampleIndicators" class="carousel slide">
-            <div class="carousel-indicators">
-              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  <div class="cDiv">
+      <div id="carouselExampleIndicators" class="carousel slide">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://www.wholesalediamondsdirect.com.au/cdn/shop/files/Banner_2_2x_1e29ecfb-478d-4ed1-a532-89e16f93cb11.jpg?v=1659879756?q=5" class="d-block" alt="...">
             </div>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="https://www.wholesalediamondsdirect.com.au/cdn/shop/files/Banner_2_2x_1e29ecfb-478d-4ed1-a532-89e16f93cb11.jpg?v=1659879756?q=5" class="d-block" alt="...">
-              </div>
-              
-              <div class="carousel-item">
-                <img src="https://c4.wallpaperflare.com/wallpaper/131/792/15/diamond-wallpaper-preview.jpg" class="d-block" alt="...">
-              </div>
-              <div class="carousel-item">
-                <img src="https://pmdiamond.com/wp-content/uploads/2020/06/Row-of-Diamonds.jpg" class="d-block" alt="...">
-              </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
-            </button>
-            <a routerLink="display">
-                <button class="shopBtn">
-                    <span class="txtView">Shop Now</span>
-                </button>
-            </a>
-            <h1 class="os">Osamy</h1>
-            <h1 class="os2">Jewels</h1>
-            <h1 class="os3">Collection</h1>
             
-        </div>
-    </div>
-    <div class="pDiv">
-        <div class="prod transform motion-safe:hover:scale-105" *ngFor="let item of pruductsData">
-            <div class="imageB">
-                <img class="image" src="{{item.image}}" alt="">
+            <div class="carousel-item">
+              <img src="https://c4.wallpaperflare.com/wallpaper/131/792/15/diamond-wallpaper-preview.jpg" class="d-block" alt="...">
             </div>
-            <div class="title">
-                <p>{{item.title}}</p>
+            <div class="carousel-item">
+              <img src="https://pmdiamond.com/wp-content/uploads/2020/06/Row-of-Diamonds.jpg" class="d-block" alt="...">
             </div>
-            <div class="price">
-                {{item.price}}
-            </div>
-            <div class="view">
-                <button>view</button>
-            </div>
-            <div class="btm">
-                
-            </div>
-        </div>
-        
-        
-    </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+          <a routerLink="display">
+              <button class="shopBtn">
+                  <span class="txtView">Shop Now</span>
+              </button>
+          </a>
+          <h1 class="os">Osamy</h1>
+          <h1 class="os2">Jewels</h1>
+          <h1 class="os3">Collection</h1>
+          
+      </div>
+  </div>
+  <div class="pDiv">
+      <div class="prod transform motion-safe:hover:scale-105" *ngFor="let item of pruductsData">
+          <div class="imageB">
+              <img class="image" src="{{item.image}}" alt="">
+          </div>
+          <div class="title">
+              <p>{{item.title}}</p>
+          </div>
+          <div class="price">
+              {{item.price}}
+          </div>
+          <div class="view">
+              <button (click)=addtocart(item)>Add to Cart</button>
+          </div>
+          <div class="btm">
+              
+          </div>
+      </div>
+      
+      
+  </div>
 </div>
