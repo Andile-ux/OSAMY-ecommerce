@@ -13,8 +13,24 @@
     flex-wrap: wrap;
     gap: 4%;
     justify-content: space-between;
+    align-items: center;
+    justify-content: center;
     
+}
+.view{
     
+}
+.v{
+    font-size: 0.7em;
+    font-weight: bold;
+    background-color: #C3A173;
+    border-radius: 1em;
+    width: 4em;
+    height: 1.6em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
 }
 .d-block{
     width: 100%;
@@ -47,7 +63,6 @@
     height: 60%;
     display: flex;
     justify-content: center;
-
 }
 .title{
     height: 15%;
@@ -55,6 +70,7 @@
     justify-content: center;
     text-align: center;
     padding-top: 0.8em;
+    margin-top: -2%;
     
     font-size: 0.8em;
 }
@@ -94,23 +110,45 @@
     color: black;
 }
 .os{
-    position: absolute;
-    margin-top: -26em;
-    margin-left: 20em;
-    font-family: cursive;
-    color: aliceblue;
+    display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Style the overlay-text */
+.os {
+  position: absolute;
+  top: 24%; /* Adjust this value to vertically center the text */
+  left: 70%; /* Adjust this value to horizontally center the text */
+  transform: translate(-50%, -50%); /* Center the text precisely */
+   /* Set the background color with some transparency */
+  color: #fff; /* Set the text color */
+  padding: 10px 20px; /* Add some padding to the text */
+  font-size: 60px; /* Adjust the font size */
+/*   text-align: center; /* Center the text horizontally */ 
+font-family: cursive;
 }
 .os2{
     position: absolute;
-    margin-top: -24em;
-    margin-left: 20em;
-    font-family: cursive;
-    color: aliceblue;
+    top: 37%; /* Adjust this value to vertically center the text */
+    left: 28%; /* Adjust this value to horizontally center the text */
+    transform: translate(-50%, -50%); /* Center the text precisely */
+     /* Set the background color with some transparency */
+    color: #fff; /* Set the text color */
+    padding: 10px 10px; /* Add some padding to the text */
+    font-size: 60px; /* Adjust the font size */
+  /*   text-align: center; /* Center the text horizontally */ 
+  font-family: cursive;
 }
 .os3{
     position: absolute;
-    margin-top: -22em;
-    margin-left: 20em;
-    font-family: cursive;
-    color: aliceblue;
+    top: 50%; /* Adjust this value to vertically center the text */
+    left: 28%; /* Adjust this value to horizontally center the text */
+    transform: translate(-50%, -50%); /* Center the text precisely */
+     /* Set the background color with some transparency */
+    color: #fff; /* Set the text color */
+    padding: 10px 10px; /* Add some padding to the text */
+    font-size: 60px; /* Adjust the font size */
+  /*   text-align: center; /* Center the text horizontally */ 
+  font-family: cursive;
 }
