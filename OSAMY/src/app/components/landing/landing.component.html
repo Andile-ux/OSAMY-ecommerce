@@ -28,7 +28,7 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
           </button>
-          <a routerLink="display">
+          <a routerLink="">
               <button class="shopBtn">
                   <span class="txtView">Shop Now</span>
               </button>
@@ -47,11 +47,12 @@
           <div class="title">
               <p>{{item.title}}</p>
           </div>
+          
           <div class="price">
               {{item.price}}
           </div>
           <div class="view">
-              <button (click)=addtocart(item)>Add to Cart</button>
+            <a routerLink="/display/{{item.id}}">view</a>
           </div>
           <div class="btm">
               
@@ -61,3 +62,4 @@
       
   </div>
 </div>
+

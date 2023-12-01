@@ -1,95 +1,22 @@
-.landing{
-    padding-right: 4%;
-    padding-left: 4%;
-}
-.cDiv{
-    background-color: antiquewhite;
-}
-.pDiv{
-    padding-top: 1.5%;
-    padding-right: 5.5%;
-    padding-left: 5.5%;
+.dProd{
     display: flex;
-    flex-wrap: wrap;
-    gap: 4%;
-    justify-content: space-between;
-    
-    
-}
-.d-block{
-    width: 100%;
-    height: 30em;
-}
-.btm{
-
-    height: 2%;
-    width: 100%;
-    padding-bottom: 0%;
-}
-.prod{
-    padding-top: 1%;
-    border: 2em;
-    box-shadow: 0.2em 0.2em 0.2em rgb(223, 226, 229);
-    column-gap: 400em;
-    width: 14em;
-    height: 18em;
-    justify-content: space-between;
-    animation: box-move 1s infinite alternate-reverse;
-    transition: transform 300ms;
-    margin: -3em 0 0 0;
-    margin-top: 3em;
-}
-.prod:hover{
-    animation: box-move-anim 1s infinite alternate-reverse;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
-.imageB{
-    height: 60%;
-    display: flex;
-    justify-content: center;
-
-}
-.title{
-    height: 15%;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    padding-top: 0.8em;
-    
-    font-size: 0.8em;
-}
-.price{
-    height: 7%;
-    display: flex;
-    justify-content: center;
-    font-size: 0.8em;
-    padding-top: 0.4em;
-}
-.view{
-    height: 12%;
-    display: flex;
-    justify-content: center;
-}
-
-.image{
-    height: 70%;
-    width: 50%;
-}
-.shopBtn{
-    position: absolute;
-    margin-top: -8em;
-    margin-left: 20em;
-    
-    background-color: white;
-    border-radius: 5em;
-    width: 6em;
-    height: 2em;
+.dImg{
+    width: 40%;
+    height: 22em;
+    background-color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
-.txtView{
-    font-size: 0.7em;
-    color: black;
+.image{
+    width: 70%;
+    height: 90%;
+}
+.dDtl{
+    width: 60%;
+    background-color: brown;
 }

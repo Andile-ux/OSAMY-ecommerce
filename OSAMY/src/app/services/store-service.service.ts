@@ -21,4 +21,8 @@ export class StoreServiceService {
   deleteItem(id: any){
     return this.http.delete(`${this.usersURL}/${id}`);
   }
+
+  getProductById(id: any){
+    return this.http.get(`${this.pruductsURL}/${id}`)
+  }
 }

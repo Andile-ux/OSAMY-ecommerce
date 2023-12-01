@@ -1,22 +1,21 @@
 
-
-<div class="landing">
-    <div class="cDiv">
+<div class="dProd">
+    <!-- <div class="cDiv">
         
     </div>
     <div class="pDiv">
-        <div class="prod transform motion-safe:hover:scale-105" *ngFor="let item of pruductsData">
+        <div class="prod transform motion-safe:hover:scale-105">
             <div class="imageB">
-                <img class="image" src="{{item.image}}" alt="">
+                <img class="image" src="{{pruductData.image}}" alt="">
             </div>
             <div class="title">
-                <p>{{item.title}}</p>
+                <p>{{pruductData.title}}</p>
             </div>
             <div class="price">
-                {{item.price}}
+                {{pruductData.price}}
             </div>
             <div class="view">
-                <button>view</button>
+                <button (click)=addtocart(pruductData)>Add to Cart</button>
             </div>
             <div class="btm">
                 
@@ -24,5 +23,12 @@
         </div>
         
         
+    </div> -->
+    <div class="dImg">
+        <img class="image" src="{{pruductData.image}}" alt="">
     </div>
+    <div class="dDtl">
+        s
+    </div>
+
 </div>

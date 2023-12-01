@@ -12,11 +12,9 @@ export class LandingComponent implements OnInit{
 
 
 
-  public productList : any ;
-  public filterCategory : any
-  searchKey:string ="";
+  
 
-  constructor(private store: StoreServiceService,private cart: CartService, private router:Router) {
+  constructor(private store: StoreServiceService, private router:Router) {
     
   }
 
@@ -31,15 +29,5 @@ export class LandingComponent implements OnInit{
 
   }
 
-  addtocart(item: any){
-    this.cart.addtoCart(item);
-  }
-  filter(category:string){
-    this.filterCategory = this.productList
-    .filter((a:any)=>{
-      if(a.category == category || category==''){
-        return a;
-      }
-    })
-  }
+  
 }
