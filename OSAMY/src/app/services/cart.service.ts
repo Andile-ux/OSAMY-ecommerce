@@ -1,3 +1,4 @@
+// cart.service.ts
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 
@@ -17,7 +18,7 @@ export class CartService {
   }
 
   setProduct(product: any) {
-    this.cartItemList.push({ ...product, quantity: 1 }); // Initialize quantity to 1
+    this.cartItemList.push({ ...product, quantity: 1 });
     this.productList.next(this.cartItemList);
   }
 
@@ -27,7 +28,8 @@ export class CartService {
     if (existingItem) {
       existingItem.quantity += 1;
     } else {
-      this.cartItemList.push({ ...product, quantity: 1 });
+      const newItem = { ...product, quantity: 1, price: Number(product.price) };
+      this.cartItemList.push(newItem);
     }
 
     this.productList.next(this.cartItemList);
@@ -37,7 +39,7 @@ export class CartService {
   getTotalPrice(): number {
     let grandTotal = 0;
     this.cartItemList.map((a: any) => {
-      grandTotal += a.total;
+      grandTotal += a.price * a.quantity;
     });
     return grandTotal;
   }
@@ -45,13 +47,16 @@ export class CartService {
   removeCartItem(product: any) {
     const index = this.cartItemList.findIndex((item: any) => item.id === product.id);
     if (index !== -1) {
+      const removedItem = this.cartItemList[index];
       this.cartItemList.splice(index, 1);
+      this.productList.next(this.cartItemList);
+      this.getTotalPrice();
     }
-    this.productList.next(this.cartItemList);
   }
 
   removeAllCart() {
     this.cartItemList = [];
     this.productList.next(this.cartItemList);
+    this.getTotalPrice(); 
   }
 }

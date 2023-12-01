@@ -18,7 +18,9 @@
               <td>{{item.title}}</td>
               <th style="width: 12%;">{{item.price}}</th>
               <td style="width: 12%;">
-                <input type="number" [(ngModel)]="item.quantity" (change)="updateQuantity(item, item.quantity)">
+                <button  (click)="changeQuantity('min')" class="btn btn-gray-400"><strong>-</strong></button>
+                <span>{{ productQuantity }}</span>
+                <button (click)="changeQuantity('max')" class="btn btn-gray-400"><strong>+</strong></button>
               </td>
               <td>
                 <button (click)="removeItem(item)" class="btn btn-gray-400" style="background-color: #C3A173"><i
@@ -47,12 +49,8 @@
           </div>
           <hr>
           <div class="total">
-            <div class="title">
-              <p>Grand Total</p>
-            </div>
-            <div class="money">
-              <p>R</p>
-            </div>
+            <div class="title"><p>Grand Total</p></div>
+            <div class="money"><p>{{ grandTotal}}</p></div>
           </div>
           <td><button routerLink="/landing" class="btn btn-gray-400"
               style="background-color: #e3b068">Proceed to Checkout</button></td>
