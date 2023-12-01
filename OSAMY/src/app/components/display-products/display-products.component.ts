@@ -35,8 +35,8 @@ export class DisplayProductsComponent implements OnInit{
     })
     
   }
-  addtocart(item: any){
-    this.cart.addtoCart(item);
+  addToCart(item: any){
+    this.cart.addToCart(item);
   }
   filter(category:string){
     this.filterCategory = this.productList
