@@ -31,69 +31,13 @@
       "password": "",
       "mobile": "",
       "id": 5
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 6
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 7
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 8
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 9
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 10
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 11
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 12
     }
   ],
   "products": [
     {
       "id": 1,
       "title": "Diamond Ring",
-      "price": "R 5000",
+      "price": 5000.00,
       "category": "Rings",
       "description": "24-Karat",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvO5jXQ-vG0PJDeM-1BPDH6Lw9ucXznr_H_3IxnOBoqLAN_ZgOSOFFHgfUAEJfaHUmZevu0316MOkt6Cqu9BbgUrz0v-_ns7RnsbhOwE1TP7ESMQZ3XloFquzWUSUNUudo1osRVTMnwnc&usqp=CAc"
@@ -101,7 +45,7 @@
     {
       "id": 2,
       "title": "Gold Ring",
-      "price": "R 5000",
+      "price": 5000.00,
       "category": "Rings",
       "description": "10-bars",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc"
@@ -109,7 +53,7 @@
     {
       "id": 3,
       "title": "14kt Gold Diamond Alinea Ring",
-      "price": "R 3 120.00",
+      "price": 312000.00,
       "category": "Rings",
       "description": "Sold exclusively in South Africa by Collective & Co., this La Kaiser Gold Diamond Alinea is the perfect amount of subtle sparkle, and is the type of fine jewellery item that you can pair with pretty much anything and everything. Made of solid 14kt gold and pavé set with 5 natural white diamonds, this delicate ring completes any look for any season.",
       "image": "https://collectiveandco.co.za/cdn/shop/products/IMG_0934.jpg?v=1612103716&width=1206"
@@ -117,7 +61,7 @@
     {
       "id": 4,
       "title": "Petite Pavé Diamond Ring",
-      "price": "R 7 490.00",
+      "price": 749000.00,
       "category": "Rings",
       "description": "This petite diamond ring features scalloped pavé diamonds in elegantly sculpted prongs that extend one half of the way around the band. It is a beautiful complement to many delicate engagement rings.",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9XPvxwqjp52Ku4AY6s5A2b8vNlnO5PancqkcixSGBBeuJ5KG38ZDo0EEa3lbtoCmvfY8Z-keUHRO0YEooXj4Cp5dX99WBjuiv7OQ2j0JqmhUN2x3YE5MgAw&usqp=CAE"
@@ -125,7 +69,7 @@
     {
       "id": 5,
       "title": "White Gold · Diamond",
-      "price": "R 9 250.00",
+      "price": 9250.00,
       "category": "Rings",
       "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc"
@@ -133,7 +77,7 @@
     {
       "id": 6,
       "title": "9ct White Gold Diamond Ring",
-      "price": "R 5 500.00",
+      "price": 5500.00,
       "category": "Rings",
       "description": "Description: 9ct White Gold Diamond Ring set with: 1 x Square Cut Diamond of approx. 0.42cts J/K SI Total Diamond Carat: 0.42cts Finger Size: L 1/2 Mass: 2.4g",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxN9SfVCOBnYOaiBpQYdw7Sg64zM45xNmSR2tXsj43F5Uc7rJqsZS-GOgE8Ql4ggNBMd0qhR1uWFo9UNwOEMjzOB-i_JlB&usqp=CAY"
@@ -141,7 +85,7 @@
     {
       "id": 7,
       "title": "Tiny Solitaire Diamond Ring",
-      "price": "R 3 750.00",
+      "price": 3750.00,
       "category": "Rings",
       "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
       "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750"
@@ -149,7 +93,7 @@
     {
       "id": 8,
       "title": "9ct White Gold Illusion Set Cluster Twist Band Diamond Ring",
-      "price": "R 21 595.00",
+      "price": 21595.00,
       "category": "Rings",
       "description": "The Bella Collection celebrates the beauty of true love. Inspired by the romantic design of vintage jewellery, this exquisite engagement ring is the perfect way to express your love…for years to come. Set in 9ct White Gold, this piece features 0.50ct of white, round brilliant diamonds in a fine pav? setting with antique millgrain detailing. The centre is further accentuated by a diamond halo…making this ring a little piece of heaven!",
       "image": ""
@@ -157,7 +101,7 @@
     {
       "id": 9,
       "title": "Women's · White Gold · Diamond",
-      "price": "R 22 366.00",
+      "price": 22366.00,
       "category": "Rings",
       "description": "This collection is available in various diamond sizes. As the diamond grows the Protea setting blooms. Starting with a 0.25ct round brilliant cut diamond, the setting features four claws with closed Protea Petals. As the diamond reaches 0.50cts the setting blooms to 6 claws with closed Protea Petals. Once the diamond reaches 1ct or larger, the setting flourishes into 6 claws with open Protea Petals.",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStTx-2Dvgyz1BeY00ilPtGXfHlVsm8jUknnRhjqrltB6uC2l8euFeki8O_SRjAZH0s06q-A4LK2KGhK_JqvwCds0bIjyvFIHWB__DxEwGR3xHNiXbdfcx4hJo&usqp=CAE"
@@ -165,7 +109,7 @@
     {
       "id": 10,
       "title": "Women's · White Gold · Diamond",
-      "price": "R 10,900.00",
+      "price": 10900.00,
       "category": "Rings",
       "description": "A striking balance between classic and organic, this ring looks gorgeous as a dainty Engagement ring or could make for a stunning anniversary gift to be treasured for a lifetime. Best of all its currently on a LAUNCH SALE! Oval Diamond Ring is crafted out of solid 9ct gold and is set with the following: 1 x 0.40ct Oval Cut Lab Diamond in the centre (Colour: F/G, Clarity: VVS/VS) 1 x 0.01ct and 2 x 0.015ct Round Brilliant Cut Lab Diamonds in the Band.",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5EsAacJw4HnL_IB_wP3dUKBwpYy6lhRE58REjXyEsaQ3a9RWWPDWp1hwsrE3LgkP8BeqL5I1iP_q1xOQNfnAg_E07IokA7UScTbINqY_8mC35ALjxdFa4&usqp=CAE"
@@ -173,7 +117,7 @@
     {
       "id": 11,
       "title": "0.015ct Diamond Eternity Ring - Platinum",
-      "price": "R 17 251.15",
+      "price": 17251.00,
       "category": "Rings",
       "description": "Our Classic 0.015ct Diamond Eternity Ring is micro set with 0.015ct Diamonds and is available in 9kt, 14kt or 18kt Rose, Yellow or White Gold and Platinum. A modern example of classic sophistication, this makes for a truly timeless wedding ring or stacking ring.",
       "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/62942db81fac3png_8.png"
@@ -181,7 +125,7 @@
     {
       "id": 12,
       "title": "White Gold 1ct Diamond Solitaire Forever Ring",
-      "price": "R 110 000.00",
+      "price": 110000.00,
       "category": "Rings",
       "description": "This striking 18ct white Gold solitaire ring is expertly set with a brilliant 1ct Diamond in a timeless six-claw solitaire setting. The ultimate engagement ring.The word “FOREVER” is engraved into the shank.",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/99162654-1200-1200?v=638357893524670000&width=1200&height=1200&aspect=true"
@@ -189,7 +133,7 @@
     {
       "id": 13,
       "title": "White Gold 2ct Diamond Band",
-      "price": "R 39 999.00",
+      "price": 39999.00,
       "category": "Rings",
       "description": "This radiant 18ct white Gold anniversary band features 2ct of claw-set Diamonds.The word 'LOVE' is engraved into the shank. 12 x round-cut Diamonds, Total Diamond weight: 2.00ct, Diamond colour: MN, Diamond clarity: SI",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/99300522-1200-1200?v=638357963993900000&width=1200&height=1200&aspect=true"
@@ -197,7 +141,7 @@
     {
       "id": 14,
       "title": "White Gold 0.45ct Diamond Baguette Cluster Halo Ring",
-      "price": "R 22 999.00",
+      "price": 22999.00,
       "category": "Rings",
       "description": "Expertly crafted in 9ct Rose Gold, this opulent ring features a rectangle cluster of round-cut and baguette-cut Diamonds in a halo setting and a band sparkling with pave set stones. The total Diamond weight is 0.45 carats. 9ct Rose Gold 51 x Diamonds Total Diamond weight: 0.45ct Diamond colour: JK Diamond clarity I1/2",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/99428396-1200-1200?v=638358026902170000&width=1200&height=1200&aspect=true"
@@ -205,7 +149,7 @@
     {
       "id": 15,
       "title": "Gabriella Diamond Engagement Ring",
-      "price": "R 56 860.00",
+      "price": 56860.00,
       "category": "Rings",
       "description": "A Gleaming 4 Round prong surrounded by a unique Halo and 3 rows of channel set stones each side in a Cathedral design with hidden accent stones.",
       "image": "https://ralphjacobs.co.za/cdn/shop/products/9.png?v=1677587838"
@@ -213,7 +157,7 @@
     {
       "id": 16,
       "title": "White Gold 0.90ct Diamond 125 Year Anniversary Ring",
-      "price": "R 39 999.00",
+      "price": 39999.00,
       "category": "Rings",
       "description": "Expertly crafted in 18ct White Gold, this magnificent ring was created to celebrate our 125 anniversary. It features a pillow-shaped cluster of Diamonds in a double halo setting with yet more fine-cut stones on the shank. It sparkles with 125 Diamonds with a total weight of 0.90ct. 9ct White Gold 125 x round-cut DiamondsTotal Diamond weight: 0.90ct Diamond colour: KL Diamond clarity: SI",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/99733836-1200-1200?v=638358238989570000&width=1200&height=1200&aspect=true"
@@ -221,7 +165,7 @@
     {
       "id": 17,
       "title": "Tessa Moissanite Engagement Ring",
-      "price": "R 61,590.00",
+      "price": 61590.00,
       "category": "Rings",
       "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
       "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938"
@@ -229,7 +173,7 @@
     {
       "id": 18,
       "title": "White Gold 8ct Tanzanite & Diamond Oval Decadence Women’s Ring",
-      "price": "R 175 000.00",
+      "price": 175000.00,
       "category": "Rings",
       "description": "Expertly crafted in 18ct White Gold, this magnificent ring features an oval-cut 8 carat Tanzanite in an art deco-inspired setting glittering with pavé set Diamonds. The total Diamond weight is 0.60 carats.",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/98135320-1200-1200?v=638357454228230000&width=1200&height=1200&aspect=true"
@@ -237,7 +181,7 @@
     {
       "id": 19,
       "title": "Gnoce Classic Blue Round Cut Promise Ring",
-      "price": "R 1 274.00",
+      "price": 1274.00,
       "category": "Rings",
       "description": "Simple and stunning with this Classic Blue Round Cut Promise Ring. This ring showcases a magnificent blue round-cut solitaire standing tall in the four-prong setting double under the halo. So elegant it needs no further accompaniment, this ring is certain to be appreciated. ",
       "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/3/63bf89c516571png_1.png"
@@ -245,7 +189,7 @@
     {
       "id": 20,
       "title": "S925 Silver Cushion Cut Duchess Customized Ring With Cz",
-      "price": "R 1 655.00",
+      "price": 1655.00,
       "category": "Rings",
       "description": "Inspired by the royal engagement, the Duchess ring is a stunning token of fairy-tale romance. The main stone size is 7*7mm, 2.65ct. This custom ring will be made to order just for you in your choice of metal plating, stones and engraving.",
       "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/1/616cdc7f4b1d7png_1_5.png"
@@ -253,7 +197,7 @@
     {
       "id": 21,
       "title": "18ct White Gold Solitaire Diamond Pendant",
-      "price": "R 34 400.00",
+      "price": 34400.00,
       "category": "necklace",
       "description": "Crafted from 18-carat white gold, this diamond solitaire pendant is set in a classic four-prong claw setting completed with an elegant, curved v-loop bail. (Price excludes chain)",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9rE4MFTR_DVQvfFrgBVDsQeMnsasSa7m5wJSlZupTHTmB8DLstG9Qp31hkPt1luS0vJO2krol0CQQnDn1OAQSMggTQ6nBPrvZC_7ERKSDXiEkXRzaVnOdFg&usqp=CAY"
@@ -261,7 +205,7 @@
     {
       "id": 22,
       "title": "Mila Necklace Solid 9ct White Gold / White Diamonds",
-      "price": "R 9 400.00",
+      "price": 9400.00,
       "category": "necklace",
       "description": "The four stone Mila Necklace is an everyday signature piece which will make you feel chic without having to try too hard. Subtle, yet a total showstopper featuring 4 x 2mm round stones in a curved bezel setting hung on a fine 45cm chain.",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_9BF-mGCKwxBs18kLhoMp7wk-EOq-d5h0DX_EnJ751ZmwGMTdVhIpKIrNWC1veklAoZa39ksB8FA0PXUxjljdGzHezqR9nrh8M2Pt9NFdcu1c-bhajYUUvg&usqp=CAE"
@@ -269,7 +213,7 @@
     {
       "id": 23,
       "title": "Yellow Gold 0.03ct Diamond Starlight Oval Filigree Pendant on Chain - Gold. Sold by Sterns",
-      "price": "R 5 999.00",
+      "price": 5999.00,
       "category": "necklace",
       "description": "Expertly crafted in 9ct Yellow Gold, this beautiful 11mm x 7mm pendant on a 42cm chain features an oval cluster of round-cut Diamonds in a filigree halo setting. * 9ct Yellow Gold * 10 x 8/8-cut Diamonds * Total Diamond weight: 0.03ct * Colour: HI * Clarity I2/3 Yellow Gold 0.03ct Diamond Starlight Oval Filigree Pendant on Chain",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8kjUY1sk_8GmRcxnDj36Zrp_IVmCqksDikyf1hAp1mTr7sNENG6w2ehD2rJbsbY3EtaudCKUZTyHUi7brZbC6uOZutBN9A9gLoxz-0HURHzbKBHKBeaXkfg&usqp=CAE"
@@ -277,7 +221,7 @@
     {
       "id": 24,
       "title": "9ct white gold diamond necklace",
-      "price": "R 5 999.00",
+      "price": 5999.00,
       "category": "necklace",
       "description": "The 9ct white gold diamond necklace adds dazzling sparkle to any special occasion. With a diamond and amethyst centrine pendant, this necklace is crafted of high quality gold for enduring shine. Perfect for any special event or an important gift. 45cm.",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDFvkLkHSXYPg15Y2DkR2QDPs926dXbK_AQ0ySkq6siPZIsSLWzYCAElKdgdkAshvxUqHUh2A-JZJOUO9RBDYMhOjVjQ2VhAsBcMb6-Dje-0f_qazuVa-oHw&usqp=CAE"
@@ -285,7 +229,7 @@
     {
       "id": 25,
       "title": "Swarovski Infinity Heart Necklace, White, Mixed Metal Finish",
-      "price": "R 2 434.84",
+      "price": 2434.00,
       "category": "necklace",
       "description": "Length: 38 cm Pendant size: 1.8x1.5 cm. Each heart is adorned with numerous stones that sparkle whenever the light hits them. The position of the hearts can be adjusted to create different looks",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSK1F4gwX9jK8xhuKRZSO56t_FScwoBeSj_zixlLCisWD2JUFHokpP8nYrV9Q_GdkYzG2un0Vh2dRmBR6hIx8Vq6AC2r8a5PHwqffQzaxVRu_uNGexT8IyoQg"
@@ -293,7 +237,7 @@
     {
       "id": 26,
       "title": "Swarovski Infinity Y Necklace",
-      "price": "R 2 884.80 ",
+      "price": 2884.00,
       "category": "necklace",
       "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC"
@@ -301,7 +245,7 @@
     {
       "id": 27,
       "title": "Monica Vinader Doina Snake Chain Necklace in GP",
-      "price": "R 3 277.06 ",
+      "price": 3277.00,
       "category": "necklace",
       "description": "Women's Monica Vinader Doina Snake Chain Necklace 46cm/18 inch - Brown - Necklaces A jewellery box basic that's anything but. Add a pearl pendant, wear solo or layer with a slim textured chain. The latest in our bestselling Monica Vinader x Doina collaboration.",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5J8kGsBcWVBW8mTMnD0slLrJdmM3QneQLsjJzslFurjjZiE9_hNbFOC5vVoHA5IkTMPhd84WhNkiziMn3FnQnPjM6K4HwRNXWHwOoncF9OBP8g5HMXmZCXcE"
@@ -309,7 +253,7 @@
     {
       "id": 28,
       "title": "Pandora Sparkling Heart Halo Pendant Collier Necklace",
-      "price": "R 1 535.54 ",
+      "price": 1535.00,
       "category": "necklace",
       "description": "Give a gift from the heart with our Sparkling Heart Halo Pendant Collier Necklace. This necklace features a heart-shaped red man-made crystal pendant that's fixed to a sterling silver chain adjustable to two lengths for versatile styling. The pendant is set in a basket hand-finished with a row of pavé along its sides, radiating love from every angle. A Pandora logo bar and small round cubic zirconia stone add extra sparkle to the closure.",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMzf0aqxlVDTs2PKn1TdbNKyL08SKxtt-sdZ8Pj0ljiCdJ0f--JaCMSgJhSFzuY6OxFXQ1t2UhHQp2-EobeoCWmVCzFXHzeYvBkO1fco9jo76NKjyVoBky"
@@ -317,7 +261,7 @@
     {
       "id": 29,
       "title": "Pandora Sterling Silver Chain Necklace 75cm",
-      "price": "R 1 025.25 ",
+      "price": 1025.00,
       "category": "necklace",
       "description": "Create a look that’s uniquely you, using this classic chain as the starting point. The versatile necklace is cast in sterling silver, one of our three signature metals. It’s minimally detailed with a Pandora logo tag and a lobster clasp. Whether you want to do simple, wear a statement or play with texture and size, it’s an easy way to update your neckline. Add your edit of pendants or charms and adjust it to one of two lengths for the perfect drop.",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2_vPCDu5_RGO2eYFyC-q38YQ3yh4BMWdaWj6VCmN69YNDjv4p0dDsi1WnQbQtzz6zWHrwq2AGo_haksxYkuByZbITpmPiup1QnDD6ueeW6IfzyJvDQr2j"
@@ -325,7 +269,7 @@
     {
       "id": 30,
       "title": "Infinity Love Swarovski Crystal Heart Pendant Necklace, Silver, White Crystal",
-      "price": "R 1 300.59",
+      "price": 1300.00,
       "category": "necklace",
       "description": "Pendant Necklaces by Leafael. Details:Our women's fashion jewelry collections are embellished with premium crystals. Exquisitely exclusive design allows its wearer to stand out with their refined fashion sense and be worn with any kind of attire be it classy or casual. Ideal accessory gift for women of all ages! Packed with exclusively elegant white, silver-embossed jewelry gift box protection as well as the much needed aesthetics.",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStrzB9MWCDBgAyS5JVqNJByH8bQ9u8NLTFv_YuLxozNr4qqjcLnNLGjR25AOwNHQEJQQwWFJzUboMLik7DuYmTgbQckDHMawRHDT9uLjM01rzlBAViVUY7Ow"
@@ -333,7 +277,7 @@
     {
       "id": 31,
       "title": "Swarovski Creativity Circle Pendant",
-      "price": "R 482.01",
+      "price": 482.00,
       "category": "necklace",
       "description": "Infuse your style with timeless elegance with this Swarovski necklace Featuring clear round crystals and rhodium plating, this necklace is designed to add a touch of finesse and sparkle to any ensemble Layer with a longer pendant to keep your style on point This pendant measures 20mm in length and 15mm in width A 14 7/8 inch chain with a two inch extender is included Infuse your style with timeless elegance with this Swarovski necklace. Featuring clear round crystals and rhodium plating, this necklace is designed to add a touch of finesse and sparkle to any ensemble. Layer with a longer pendant to keep your style on point. This pendant measures 20mm in length and 15mm in width. A 14 7/8 inch chain with a two inch extender is included. ",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpQxjE8MiPN4Q8JYmsBTY0KjzQG5Y5TXFUFdD9JiKyPlDBUPOE8UiggWKvEm4UljU9lMHaqdVpjH4U2_avOyZUP6e_ihJQ0AEJoDfYJNR-iEvX9v5Chf2n"
@@ -341,7 +285,7 @@
     {
       "id": 32,
       "title": "Simulated Diamond Station Gold Necklace for Women by PAVOI",
-      "price": "R 495.68",
+      "price": 495.00,
       "category": "necklace",
       "description": "Infuse elegance into every ensemble with this exquisite necklace. Our Shell Pearl Chain, with its lustrous pearls, seamlessly intertwines with the sparkle of the PAVOI 14K gold-plated station necklace, featuring high-quality cubic zirconias set in five refined stations. Together, they form a harmonious blend of timeless beauty and modern dazzle - an endlessly chic piece that's perfect for layering or making a standalone statement. Materials: 14KT yellow, rose, or white gold plated AAAAA Cubic Zirconia Measurements: Shell Pearl Chain: Length: 16 inch + 3 inch extender; Pearls: 3 x 3mm Simulated Diamond Station: Chain Length: 15 inch + 3 inch extender, Width: 1.3mm",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0Qv63CvBTDn1C57KCK343CR7MVmrT_afv_nd1ZYIMjnzang96XKRaleoLnlxB5WuT6rVN90zxkRiSdCukkEEf2Ft-bL69lmeJXMYg2jghVFPCTygO6Hlx"
@@ -349,7 +293,7 @@
     {
       "id": 33,
       "title": "Diamond Solitaire Necklace (Tube Set) Yellow Gold / 45cm",
-      "price": "R 5 999.00",
+      "price": 5999.00,
       "category": "necklace",
       "description": "This solitaire necklace will stand the test of time. It transcends all boundaries. A true classic and the perfect gift for self or loved one. Wear it and don't stop. 0.10ct Round brilliant sustainably grown diamond f/g vs-si. Solid 9ct Gold, never plated. Available in white, yellow & rose gold. Anchor link chain. Chain width 1mm. Chain lengths 40cm and 45cm. Lobster clap closure.",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcST79k_ffm8r6T3c2RBD5w2N1Y0bOfA5vl5hsuw_yKwpiNqViymqHTN7OrAWxpjfkGtFrEjlx0xq2uArEJCBl2eQpjpQf95B3JcTaUZPP7r-F_lD1F8GF4pTw&usqp=CAE"
@@ -357,7 +301,7 @@
     {
       "id": 34,
       "title": "Classic Diamante Necklace",
-      "price": "R 390.00",
+      "price": 390.00,
       "category": "necklace",
       "description": "Introducing our gorgeous new Dual-Chain Diamante Necklace – the ultimate accessory for anyone looking to add some serious glam to their look. Crafted from high-quality sterling silver and plated in 18k gold, this necklace is the perfect combination of style and quality. What sets this necklace apart is the off-centre diamante and the two different chains on either side give it a cool and unique vibe. Whether you're dressing up for a night out or adding a touch of glam to your everyday look, our Dual-Chain Diamante Necklace is the perfect accessory. It's fun, hip, and totally unforgettable – just like you!",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfsbthIRQbKU_YxMqwIFvpKk-GUMdTrkWDnQKRtlYs6_a3YM5SBj7Cpg5m46WNM76ANOOKkbt5OUo53i4ONR9M3r4wCKBds1QOstM9VHQ&usqp=CAE"
@@ -365,7 +309,7 @@
     {
       "id": 35,
       "title": "Inverted Protea Leaf Diamond Necklace",
-      "price": "R 48 995.00",
+      "price": 48995.00,
       "category": "necklace",
       "description": "A Statement necklace featuring a beautiful dangling pear shaped diamond and several smaller diamonds this necklace is sure to steal the attention.",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQROOQsx97TVc_Npv74TSpvN9GvKWxPeeuGwwzR3_FoPUoCfeiW3Mk_eJVdcnbUKsoNnnwba4Yu0u3l_84ll5-hsvUN6GbwM_3SdyfnYKcqGv6EmeOzdYZL&usqp=CAE"
@@ -373,7 +317,7 @@
     {
       "id": 36,
       "title": "The Tri Diamond Necklace",
-      "price": "R 34 700.00",
+      "price": 34700.00,
       "category": "necklace",
       "description": "Semi Rough Triangle Shaped Diamond set in 9k Gold Shape: TRI / Carat: 0.48 / Color: L / Clarity: VSSI This piece is made to order, with a manufacturing time of 2-3 weeks. Specs & pricing will change depending on availability of diamonds. ",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQhc9XHVkH3DcwDj3z3AqUlFvKx_oyRFWoPwcN-6p9vEedayMRRTMzCTlc130iO842uFyYIHNOCfc22Vv54zhKLxPeUWercXy85mT448swoKu_34fRPgiF&usqp=CAE"
@@ -381,7 +325,7 @@
     {
       "id": 37,
       "title": "0.40ct Princess Solitaire Diamond Pendant in 9k Gold",
-      "price": "R 26 999.00",
+      "price": 26999.00,
       "category": "necklace",
       "description": "0.40ct Princess Solitaire Diamond Pendant in 9k Gold Set with: 1x 0.40ct SI I (4mm) Princess Diamond (Chain not included - Shop Pendant Chains)",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDyYVtQvbW3FOOnUdptequntlZLJtY8doGecph3kcvL32HDcdrqOsFwjLVZ63BQdLzPslAsfTUunqGSUg2_usFFjY-fL_onRQHHTN88C4My8d8Z3fxs3k0Scg&usqp=CAE"
@@ -389,7 +333,7 @@
     {
       "id": 38,
       "title": "Classic Bezel Diamond Necklace in Rose Gold Large",
-      "price": "R 14 850.00",
+      "price": 14850.00,
       "category": "necklace",
       "description": "he Little Black Dress of your décolletage - a wardrobe classic when wearing it on it's own, and sexy AF when adding it to your necklace stack. This beauty also makes for an incredible milestone gift, OR just because. Available in two sizes: Large (0.25cts) and Petite (0.14).",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGongxJmEVEJBSYo7DpieDuG-PYn6Sx8HtJIkFGyrviyC7H5dBBRQEdB7Tb4dEjNEnhNG6JrL85LTWMX5GPiZqroK7I48C4fDCF5hWbbSEm3UMJ_OJ3UqiBA&usqp=CAE"
@@ -397,7 +341,7 @@
     {
       "id": 39,
       "title": "9ct Classic Solitaire Diamond Necklace White Gold / 45cm",
-      "price": "R 7 850.00",
+      "price": 7850.00,
       "category": "necklace",
       "description": "Timeless and classic diamond solitaire necklace. Solitaire round brilliant diamond = 0.10ct 9ct gold. Length: 40cm or 45cm *comes with a valuation certificate. Rose gold diamond solitaire necklace | Yellow gold diamond solitaire necklace | White gold diamond solitaire necklace",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTvyXCM7_2IiWi5POJeNsrU2lY_pf3NDGg6TWqyZ62vYxSail6QgRagu267HaamMewppojp4VFIOnTSxUgxJEX_5tFKse4GY3XEux8h0IHi3EMe0tIQBTso-Q&usqp=CAE"
@@ -405,7 +349,7 @@
     {
       "id": 40,
       "title": "18ct White Gold Claw Set Diamond Graduated Tennis Necklace by Bellagio Jewellers",
-      "price": "R 134 095.00",
+      "price": 134095.00,
       "category": "necklace",
       "description": "The diamond tennis necklaces, bracelets and eternity rings, a mesmerising ensemble of shimmering diamonds, illuminate the wearers beauty. The diamond solitaire rings, pendants and earrings, elegant and understated, evoke the thrill of a solitary moment. Completing this melody, is our Circle of Life collection. With no beginning or end, the circle is the perfect expression of eternal love.",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-rtrp0M_KGewuoGgBcAlY42Fd2mGHt6m94zY62NFznQZXGgUKoi49md73Y64zsgKe8V6vZfewsaSf-PGUqlpIon6xUWluA9vQup9MaWano9X6Z7qirCsy&usqp=CAE"
@@ -413,7 +357,7 @@
     {
       "id": 41,
       "title": "18ct Yellow Gold Tennis Bracelet with 2ct Round Brilliant Cut Diamonds",
-      "price": "R 54 822.00",
+      "price": 54822.00,
       "category": "Bracelet",
       "description": "18ct Yellow Gold Classic Box Catch Tennis Bracelet with 80 Round Brilliant Cut Diamonds weighing a total ot 2.00ct (Colour GHI - Clarity VS-SI) What's in the box 1 Bracelet",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ2vAkTu7TGbS3nEAayCoORvqe6ZQid845_YDXm4YeIczhb0modfz4Q1QVRqMJuhrFqWpcmFR6QaJnaAfzhkALaqQB051OwqCYG6dn2f95u4Qs_hkA-7tyyhQ&usqp=CAE"
@@ -421,7 +365,7 @@
     {
       "id": 42,
       "title": "18ct Yellow Gold Plated Cubic Zirconia Tennis Bracelet",
-      "price": "R 1 299.00",
+      "price": 1299.00,
       "category": "Bracelet",
       "description": "This beautiful tennis bracelet is expertly crafted in 18ct Yellow Gold and features a glittering voyage of round-cut Cubic Zirconia.",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/99462536-1200-1200?v=638358043992800000&width=1200&height=1200&aspect=true"
@@ -453,7 +397,7 @@
     {
       "id": 46,
       "title": "Infinite Love Tennis Bracelet With CZ Stones Sterling Silver",
-      "price": "R 1 673.00",
+      "price": 1673.00,
       "category": "Bracelet",
       "description": "Inspired by the figure-eight curve on its side, the Infinity symbol is everlasting. Created by an English mathematician, the Lemniscate ribbon represents the idea of a sum larger than any number – it is never-ending. This infinite tennis bracelet crafted of 925 Sterling Silver, paved 0.20 Carat stones, decorated with crystal zircon stones, let infinity speak to unconditional love in your life, where there is no end in sight. A promise of forever.",
       "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/E/Y/EYB0035ec775d771effjpg_6.jpg"
@@ -461,7 +405,7 @@
     {
       "id": 47,
       "title": "Shiny CZ Tennis Bracelet Silver Plated",
-      "price": "R 494.00",
+      "price": 494.00,
       "category": "Bracelet",
       "description": "This sparkling tennis bracelet is a piece of timeless classic jewelry. All-match style.",
       "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/1/61c983ebc8e4bjpg_8.jpg"
@@ -469,7 +413,7 @@
     {
       "id": 48,
       "title": "Jeulia Vintage Halo Heart Design Stainless Steel Bracelet",
-      "price": "R 885.00",
+      "price": 885.00,
       "category": "Bracelet",
       "description": "Love and fashion combine to create this dazzling bracelet. Crafted in stainless steel, this chic and sweet look features three blue heart cut stones accross the center. Smaller stones adorn the bracelet, adding subtle sparkle. A great anytime choice, this fashion bracelet is sure to become an instant favorite. ",
       "image": "https://res2022.jeulia.com/product/9/d/800x800/647ff7187c4d9.jpg"
@@ -477,7 +421,7 @@
     {
       "id": 49,
       "title": "White Gold 10ct Diamond Tennis Bracelet",
-      "price": "R 245 000.00",
+      "price": 245000.00,
       "category": "Bracelet",
       "description": "This 10ct Diamond tennis bracelet is set in luxurious 18ct white Gold for a classic look.",
       "image": "https://thefoschini.vtexassets.com/arquivos/ids/98159251-1200-1200?v=638357485809430000&width=1200&height=1200&aspect=true"
@@ -485,7 +429,7 @@
     {
       "id": 50,
       "title": "Butterfly & Love Heart Open Bangle Bracelet Lead-free ECO Copper 18K Rose Gold Plated Inlaid with Colorful CZ Stones",
-      "price": "R 1 591.00",
+      "price": 1591.00,
       "category": "Bracelet",
       "description": "The bangle is made of lead-free ECO copper with18K rose gold plated. And the ends of the bracelet are the love heart and colorful butterfly inlaid with gemstones. Highly detailed and dainty, this piece of jewelry enchants with a colorful butterfly pattern encrusted with brightly colored stone highlights. An absolute eye-catcher! The charms on both ends are not removable. Fit All Major Brands of Charms",
       "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/6286fe74040a0png_7.png"
