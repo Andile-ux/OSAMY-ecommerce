@@ -1,4 +1,4 @@
- <div class="container">
+ <!-- <div class="container">
     <div class="row">
         <div class="col-md-6">
             <div class="card">
@@ -24,5 +24,31 @@
             </div>
         </div>
     </div>
-</div> 
+</div>  -->
 
+
+<div class="container">
+    <div class="main">  	
+		<input type="checkbox" id="chk" aria-hidden="true">
+
+			<div class="signup">
+				<form [formGroup]="registerForm" (ngSubmit)="register()">
+					<label for="chk" aria-hidden="true">Sign up</label>
+					<input formControlName="firstName" type="text" name="txt" placeholder="First name" required="">
+                    <input formControlName="lastName" type="text" name="txt" placeholder="Last name" required="">
+					<input formControlName="email" type="email" name="email" placeholder="Email" required="">
+					<input formControlName="password" type="password" name="pswd" placeholder="Password" required="">
+					<button>Sign up</button>
+				</form>
+			</div>
+
+			<div class="login">
+				<form [formGroup]="loginForm" (ngSubmit)="login()">
+					<label for="chk" aria-hidden="true">Login</label>
+					<input formControlName="email" type="email" name="email" placeholder="Email" required="">
+					<input formControlName="password" type="password" name="pswd" placeholder="Password" required="">
+					<button>Login</button>
+				</form>
+			</div>
+	</div>
+</div>

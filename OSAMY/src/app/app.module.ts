@@ -9,7 +9,7 @@ import { LoginComponent } from './components/login/login.component';
 import { LandingComponent } from './components/landing/landing.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
-import { RegisterComponent } from './components/register/register.component';
+//import { RegisterComponent } from './components/register/register.component';
 import {ReactiveFormsModule} from '@angular/forms';
 
 
@@ -20,7 +20,7 @@ import {ReactiveFormsModule} from '@angular/forms';
     CartComponent,
     LoginComponent,
     LandingComponent,
-    RegisterComponent
+   //RegisterComponent
   ],
   imports: [
     BrowserModule,

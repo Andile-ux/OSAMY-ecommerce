@@ -11,6 +11,7 @@ import { Router } from '@angular/router';
 
 export class LoginComponent implements OnInit{
   public loginForm!:FormGroup;
+  public registerForm !: FormGroup;
   constructor(private formBuilder:FormBuilder, private http:HttpClient, private router:Router){
 
   }
@@ -19,6 +20,13 @@ export class LoginComponent implements OnInit{
       email:[''],
       password:['']
     })
+    this.registerForm = this.formBuilder.group({
+      firstName: [''],
+      lastName: [''],
+      email: [''],
+      password: [''],
+      mobile: ['']
+    });
   }
   login(){
     this.http.get<any>("http://localhost:3000/users").subscribe((results)=>{
@@ -35,9 +43,17 @@ export class LoginComponent implements OnInit{
     },err=>{
       alert("Something went wrong");
     });
-    
   }
 
+  register(){
+      this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
+        alert("Registered successfully");
+        this.registerForm.reset();
+        this.router.navigate(['login']);
+      }, err=>{
+        alert("Something went wrong")
+      });
+    }
 
 }
 
