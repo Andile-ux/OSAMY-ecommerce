@@ -127,6 +127,22 @@
       "password": "6789",
       "mobile": null,
       "id": 17
+    },
+    {
+      "firstName": "Hlelwa",
+      "lastName": "Nsele",
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "mobile": "",
+      "id": 18
+    },
+    {
+      "firstName": "Nana",
+      "lastName": "Nsele",
+      "email": "nana@gmail.com",
+      "password": "nana@01",
+      "mobile": "",
+      "id": 19
     }
   ],
   "products": [
