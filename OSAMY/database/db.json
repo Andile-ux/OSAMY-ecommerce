@@ -322,6 +322,11 @@
       "email": "maria@email.com\"",
       "password": "123",
       "id": 50
+    },
+    {
+      "email": "maria@email.com\"",
+      "password": "12345",
+      "id": 51
     }
   ],
   "products": [
@@ -2168,6 +2173,20 @@
         }
       ],
       "id": 74
+    },
+    {
+      "cart": [
+        {
+          "id": 93,
+          "title": "PETITE DOVER",
+          "price": 2490,
+          "category": "Watches",
+          "description": "The white cliffs of Dover inspired our Petite Dover. With an eggshell-white dial, details in rose gold and an all-white strap it captures the essence of summer. Create a Classic look that will turn heads wherever you go.",
+          "image": "https://global.danielwellington.com/cdn/shop/products/4a1920a3f9299e0d2cf2901e3c3a2077624e77ff.png?v=1679583855",
+          "quantity": 1
+        }
+      ],
+      "id": 75
     }
   ],
   "rings": [
