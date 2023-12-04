@@ -33,45 +33,38 @@ export class LoginComponent implements OnInit {
       password: [''],
       mobile: ['']
     });
+
+   
   }
 
-  login() {
-    this.http.post<any>('http://localhost:3000/users', this.loginForm.value).subscribe(
-      (response) => {
-        console
-        if (response) {
-          console.log('Generated Token:', response.token);
+ 
+  login(){
+    this.http.get<any>("http://localhost:3000/users").subscribe((results)=>{
+      const user = results.find((a:any)=>{
+        return a.email === this.loginForm.value.email && a.password === this.loginForm.value.password
+      });
 
-          this.jwtService.saveToken(response.token);
-
-          alert('Login Success');
-          this.loginForm.reset();
-          this.router.navigate(['landing']);
-        } else {
-          alert('Invalid credentials');
-        }
-      },
-      (err) => {
-        alert('Something went wrong');
+      if(user){
+        this.jwtService.loginUser(user.email).subscribe(results)
+        console.log(user)
+        alert("Login Success");
+        this.loginForm.reset();
+        this.router.navigate(['landing'])
+      }else{
+        alert("User not found");
       }
-    );
+    },err=>{
+      alert("Something went wrong");
+    });
   }
 
-  register() {
-    this.http.post<any>('http://localhost:3000/users', this.registerForm.value).subscribe(
-      (response) => {
-        if (response && response.token) {
-          this.jwtService.saveToken(response.token);
-          alert('Registered successfully');
-          this.registerForm.reset();
-          this.router.navigate(['landing']);
-        } else {
-          alert('Registration failed');
-        }
-      },
-      (err) => {
-        alert('Something went wrong');
-      }
-    );
-  }
+  register(){
+      this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
+        alert("Registered successfully");
+        this.registerForm.reset();
+        this.router.navigate(['login']);
+      }, err=>{
+        alert("Something went wrong")
+      });
+    }
 }
