@@ -36,35 +36,42 @@ export class LoginComponent implements OnInit {
 
    
   }
-
- 
-  login(){
-    this.http.get<any>("http://localhost:3000/users").subscribe((results)=>{
-      const user = results.find((a:any)=>{
-        return a.email === this.loginForm.value.email && a.password === this.loginForm.value.password
-      });
-
-      if(user){
-        this.jwtService.loginUser(user.email).subscribe(results)
-        console.log(user)
-        alert("Login Success");
-        this.loginForm.reset();
-        this.router.navigate(['landing'])
-      }else{
-        alert("User not found");
-      }
-    },err=>{
-      alert("Something went wrong");
-    });
-  }
-
-  register(){
-      this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
-        alert("Registered successfully");
-        this.registerForm.reset();
-        this.router.navigate(['login']);
-      }, err=>{
-        alert("Something went wrong")
+    login(){
+      this.http.get<any>("http://localhost:3000/users").subscribe((results)=>{
+        const user = results.find((a:any)=>{
+          return a.email === this.loginForm.value.email && a.password === this.loginForm.value.password
+        });
+        if(this.registerForm==null){
+          this.jwtService.loginUser(user.email).subscribe(results)
+          alert("Registered successfully");
+        } else{
+          alert("Invalid")
+        } 
+        if(user){
+          alert("Login Success");
+          this.loginForm.reset();
+          this.router.navigate(['landing'])
+        }else{
+          alert("User not found");
+        }
+      },err=>{
+        alert("Something went wrong");
       });
     }
+  
+    register(){
+        this.http.post<any>("http://localhost:3000/users", this.registerForm.value).subscribe((results)=>{
+        if(this.registerForm==null){
+          alert("Registered successfully");
+        } else{
+          alert("Invalid")
+        } 
+        
+          this.registerForm.reset();
+          this.router.navigate(['login']);
+        }, err=>{
+          alert("Something went wrong")
+        });
+      }
+  
 }
