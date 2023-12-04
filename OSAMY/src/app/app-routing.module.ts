@@ -6,6 +6,7 @@ import { DisplayProductsComponent } from './components/display-products/display-
 import { LandingComponent } from './components/landing/landing.component';
 import { LoginComponent } from './components/login/login.component';
 import { LogoutComponent } from './components/logout/logout.component';
+import { CheckoutComponent } from './components/checkout/checkout.component';
 
 //import { RegisterComponent } from './components/register/register.component';
 
@@ -43,6 +44,10 @@ const routes: Routes = [
   {
     path: 'logout',
     component: LogoutComponent
+  },
+  {
+    path: 'checkout',
+    component: CheckoutComponent
   }
 ];
 

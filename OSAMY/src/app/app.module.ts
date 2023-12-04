@@ -13,6 +13,7 @@ import { HttpClientModule } from '@angular/common/http';
 //import { RegisterComponent } from './components/register/register.component';
 import {ReactiveFormsModule} from '@angular/forms';
 import { LogoutComponent } from './components/logout/logout.component';
+import { CheckoutComponent } from './components/checkout/checkout.component';
 
 
 
@@ -24,6 +25,7 @@ import { LogoutComponent } from './components/logout/logout.component';
     LoginComponent,
     LandingComponent,
     LogoutComponent,
+    CheckoutComponent,
 
    //RegisterComponent
   ],
