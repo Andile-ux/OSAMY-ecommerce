@@ -3,45 +3,48 @@
   <div class="px-[2%]">
 
   
-  <div class="fs w-[100%] px-[2%]">
-
-    <p class="fr text-black-300 text-[0.7em]">Free Shipping on all orders within South Africa</p>
+    <div class="fs w-[100%] px-[2%]">
   
+      <p class="fr text-black-300 text-[0.7em]">Free Shipping on all orders within South Africa</p>
+    
+    </div>
   </div>
-</div>
   
   <div class="px-[1.82em]">
-  
-    <div class="nav flex items-center justify-between shadow-md mb-4 h-[9em]">
-      <div>
-        <a routerLink="landing"><img style="width: 150px; height: 150px; margin-left: 120px;" src="assets/osam_things-removebg-preview.png" alt=""></a>
+    
+    <div class="nav px-[3%] flex items-center justify-between shadow-md mb-[1em] h-[8em]">
+      <div class="im h-[8em]">
+        <a routerLink="landing"><img style="width: 9,375em; height: 150px;" src="assets/osam_things-removebg-preview.png" alt=""></a>
       </div>
     
-      <div class="flex justify-between gap-6 ; justify-center; "> 
-          
-            <div class="dropdown ">
-              <a style="background-color: #C3A173;" class="btn btn-secondary dropdown-toggle w-[15em]" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Select Category
-              </a>
-            
-              <ul class="dropdown-menu w-[15em]">
-                <li><a class="dropdown-item " href="landing" value="rings" id="rings">Rings</a></li>
-                <li><a class="dropdown-item" href="landing" value="neck">Necklaces</a></li>
-            <li><a class="dropdown-item" href="landing" value="watch">Watches</a></li>
-            <li><a class="dropdown-item" href="landing" value="brace">Bracelets</a></li>
-            <li><a class="dropdown-item" href="landing" value="ear">Earrings</a></li>
-              </ul>
-            </div>
-          
-          
-          <a routerLink="login" class="font-medium hover:underline mt-3 mr-5">Login</a>
-          <img style="width: 39px; height: 37px; margin-top: 10px; margin-right: 10px; " src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5My02MS5wbmc.png" alt="">
-          <a routerLink="login">
-          <img style="width: 45px; height: 50px; margin-right: 70px; margin-top: 5px;" src="https://static.vecteezy.com/system/resources/previews/012/791/182/original/solid-shopping-cart-icon-free-vector.jpg" alt="">
-          </a>
+      <div class="df"> 
 
+        <div class="dropdown ">
+          <a style="background-color: #C3A173;" class="btn btn-secondary dropdown-toggle w-[15em]" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Select Category
+          </a>
+        
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="category">Rings</a></li>
+            <li><a class="dropdown-item" href="#">Necklaces</a></li>
+            <li><a class="dropdown-item" href="#">Watches</a></li>
+            <li><a class="dropdown-item" href="#">Bracelets</a></li>
+            <li><a class="dropdown-item" href="#">Earrings</a></li>
+          </ul>
+        </div>
+     
+
+          <a routerLink="login" class="lgo"><p>login</p></a>
+
+          <a routerLink="cart">
+            <p>cart</p>
+          </a>
+          
+        
+          
       </div>
   </div>
+  
   </div>
   
   <router-outlet></router-outlet>
@@ -65,7 +68,8 @@
         <a routerLink="landing"><img style="width: 9,375em; height: 150px;" src="assets/osam_things-removebg-preview.png" alt=""></a>
       </div>
     
-      <div class="flex justify-between gap-6 ; justify-center; "> 
+      <div class="df"> 
+
         <div class="dropdown ">
           <a style="background-color: #C3A173;" class="btn btn-secondary dropdown-toggle w-[15em]" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Select Category
@@ -79,12 +83,26 @@
             <li><a class="dropdown-item" href="#">Earrings</a></li>
           </ul>
         </div>
-          <a routerLink="login" class="font-medium hover:underline mt-3 mr-5">Login</a>
-          <img style="width: 39px; height: 37px; margin-top: 10px; margin-right: 10px; " src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5My02MS5wbmc.png" alt="">
-          <a routerLink="cart">
-          <img style="width: 45px; height: 50px; margin-right: 70px; margin-top: 5px;" src="https://static.vecteezy.com/system/resources/previews/012/791/182/original/solid-shopping-cart-icon-free-vector.jpg" alt="">
-          </a>
-          <a routerLink="logout" class="font-medium hover:underline mt-3 mr-5">Logout</a>
+     
+
+          <a routerLink="logout" class="lgo"><p>Logout</p></a>
+
+          <div class="ht">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart-fill" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314"/>
+            </svg>
+          </div>
+          <div class="crt">
+            <a routerLink="cart">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-fill" viewBox="0 0 16 16">
+                <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
+              </svg>
+            </a>
+          </div>
+          
+          
+        
+          
       </div>
   </div>
   

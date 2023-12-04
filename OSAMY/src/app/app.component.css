@@ -14,3 +14,36 @@
     justify-content: center;
     align-items: center;
 }
+.df{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+.rt{
+    gap: 2em;
+
+}
+.btn{
+    border-radius: 4em;
+    color: black;
+}
+.crt{
+    width: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.4em;
+    border: solid 0.0622em;
+    border-radius: 4em;
+}
+
+.ht{
+    height: 2.4em;
+    width: 2.4em;
+    border: solid 0.0622em;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
