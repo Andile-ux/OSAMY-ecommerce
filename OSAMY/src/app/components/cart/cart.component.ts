@@ -1,4 +1,3 @@
-// cart.component.ts
 import { Component, OnInit } from '@angular/core';
 import { CartService } from 'src/app/services/cart.service';
 
@@ -8,7 +7,7 @@ import { CartService } from 'src/app/services/cart.service';
   styleUrls: ['./cart.component.css']
 })
 export class CartComponent implements OnInit {
-  productQuantity:number =1;
+  productQuantity: number = 1;
   grandTotal!: number;
 
   constructor(private store: CartService) { }
@@ -16,6 +15,10 @@ export class CartComponent implements OnInit {
   cartData: any = [];
 
   ngOnInit(): void {
+    this.loadCart();
+  }
+
+  loadCart() {
     this.store.getProducts().subscribe(res => {
       this.cartData = res;
       this.calculateGrandTotal();
@@ -23,7 +26,7 @@ export class CartComponent implements OnInit {
   }
 
   calculateGrandTotal() {
-    this.grandTotal = this.store.getTotalPrice();
+    this.grandTotal = this.store.getTotalPriceConsideringQuantity();
   }
 
   removeItem(item: any) {
@@ -37,21 +40,23 @@ export class CartComponent implements OnInit {
   }
 
   updateQuantity(item: any, newQuantity: number) {
-    if (newQuantity >= 1) {
-      const updatedItem = { ...item, quantity: newQuantity };
-      this.store.addToCart(updatedItem);
+    if (newQuantity >= this.productQuantity) {
+      this.store.updateQuantity(item, newQuantity);
       this.calculateGrandTotal();
     }
   }
 
-  changeQuantity(item:any){
-    if(this.productQuantity < 8 && item == "max"){
-      const newQuantity:number = this.productQuantity += 1;
-      this.updateQuantity(item,newQuantity)
-    }else if(this.productQuantity > 1 && item == "min"){
-      const newQuantity = this.productQuantity -= 1;
-      this.updateQuantity(item,newQuantity)
-    }
-  }
+  changeQuantity(item: any, operation: string) {
+    const productQuantity = item.quantity || 1;
+    let newQuantity;
 
+    if (operation === 'max') {
+      newQuantity = productQuantity < 8 ? productQuantity + 1 : productQuantity;
+    } else if (operation === 'min') {
+      newQuantity = productQuantity > 1 ? productQuantity - 1 : productQuantity;
+    }
+
+    this.store.updateQuantity(item, newQuantity || 1);
+    this.calculateGrandTotal();
+  }
 }

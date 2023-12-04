@@ -18,14 +18,13 @@
               <td>{{item.title}}</td>
               <th style="width: 12%;">{{item.price}}</th>
               <td style="width: 12%;">
-                <button  (click)="changeQuantity('min')" class="btn btn-gray-400"><strong>-</strong></button>
-                <span>{{ productQuantity }}</span>
-                <button (click)="changeQuantity('max')" class="btn btn-gray-400"><strong>+</strong></button>
+                <button (click)="changeQuantity(item, 'min')" class="btn btn-gray-400"><strong>-</strong></button>
+                <span>{{ item.quantity }}</span>
+                <button (click)="changeQuantity(item, 'max')" class="btn btn-gray-400"><strong>+</strong></button>
               </td>
-              <td>
                 <button (click)="removeItem(item)" class="btn btn-gray-400" style="background-color: #C3A173"><i
                     class="fa fa-trash"></i></button>
-              </td>
+    
             </tr>
             <tr>
               <td colspan="3"></td>
@@ -59,6 +58,7 @@
       </div>
     </div>
   </div>
+
 </ng-container>
 
 <ng-container *ngIf="cartData.length == 0">

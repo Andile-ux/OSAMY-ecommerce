@@ -1,25 +1,23 @@
 // cart.service.ts
+
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
+import { HttpClient } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root'
 })
 export class CartService {
 
-  public cartItemList: any = [];
-  public productList = new BehaviorSubject<any>([]);
-  public search = new BehaviorSubject<string>("");
+  private apiUrl = 'http://localhost:3000';
+  public cartItemList: any[] = [];
+  public productList = new BehaviorSubject<any[]>([]);
+  public product: any;
 
-  constructor() { }
+  constructor(private http: HttpClient) { }
 
   getProducts() {
     return this.productList.asObservable();
-  }
-
-  setProduct(product: any) {
-    this.cartItemList.push({ ...product, quantity: 1 });
-    this.productList.next(this.cartItemList);
   }
 
   addToCart(product: any) {
@@ -32,31 +30,56 @@ export class CartService {
       this.cartItemList.push(newItem);
     }
 
-    this.productList.next(this.cartItemList);
-    this.getTotalPrice();
+    this.productList.next([...this.cartItemList]);
+    this.saveCartToServer();
+    return this.getTotalPriceConsideringQuantity();
   }
 
-  getTotalPrice(): number {
-    let grandTotal = 0;
-    this.cartItemList.map((a: any) => {
-      grandTotal += a.price * a.quantity;
-    });
-    return grandTotal;
+  updateQuantity(updatedItem: any, newQuantity: number) {
+    const index = this.cartItemList.findIndex((item: any) => item.id === updatedItem.id);
+
+    if (index !== -1) {
+      this.cartItemList[index].quantity = newQuantity;
+      this.productList.next([...this.cartItemList]);
+      this.saveCartToServer();
+      return this.getTotalPriceConsideringQuantity();
+    }
   }
 
   removeCartItem(product: any) {
     const index = this.cartItemList.findIndex((item: any) => item.id === product.id);
     if (index !== -1) {
-      const removedItem = this.cartItemList[index];
       this.cartItemList.splice(index, 1);
-      this.productList.next(this.cartItemList);
-      this.getTotalPrice();
+      this.productList.next([...this.cartItemList]);
+      this.saveCartToServer();
+      return this.getTotalPriceConsideringQuantity();
     }
   }
 
   removeAllCart() {
     this.cartItemList = [];
-    this.productList.next(this.cartItemList);
-    this.getTotalPrice(); 
+    this.productList.next([...this.cartItemList]);
+    this.saveCartToServer();
+    return this.getTotalPriceConsideringQuantity();
+  }
+
+  private saveCartToServer() {
+    this.http.post(`${this.apiUrl}/carts`, { cart: this.cartItemList }).subscribe(
+      (response) => {
+        console.log('Cart saved to server successfully', response);
+      },
+      (error) => {
+        console.error('Error saving cart to server:', error);
+      }
+    );
+  }
+
+  public getTotalPriceConsideringQuantity(): any {
+    let grandTotal = 0;
+    this.cartItemList.forEach((item: any) => {
+      grandTotal += item.price * item.quantity;
+    });
+
+    return grandTotal;
   }
 }

@@ -143,6 +143,185 @@
       "password": "nana@01",
       "mobile": "",
       "id": 19
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 20
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 21
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 22
+    },
+    {
+      "email": "nana@gmail.com",
+      "password": "nana@01",
+      "id": 23
+    },
+    {
+      "firstName": "Senzelwe",
+      "lastName": "Ngwane",
+      "email": "ngwane@gmail.com",
+      "password": "12345",
+      "mobile": "",
+      "id": 24
+    },
+    {
+      "firstName": "Senzelwe",
+      "lastName": "Ngwane",
+      "email": "ngwane@gmail.com",
+      "password": "12345",
+      "mobile": "",
+      "id": 25
+    },
+    {
+      "email": "ngwane@gmail.com",
+      "password": "12345",
+      "id": 26
+    },
+    {
+      "email": "ngwane@gmail.com",
+      "password": "12345",
+      "id": 27
+    },
+    {
+      "email": "ngwane@gmail.com",
+      "password": "12345",
+      "id": 28
+    },
+    {
+      "firstName": "Xolile",
+      "lastName": "Vezi",
+      "email": "xvezi@gmail.com",
+      "password": "123456789",
+      "mobile": "",
+      "id": 29
+    },
+    {
+      "firstName": "Bayanda",
+      "lastName": "Vezi",
+      "email": "bman@gmail.com",
+      "password": "bman@01",
+      "mobile": "",
+      "id": 30
+    },
+    {
+      "firstName": "Nokwanda",
+      "lastName": "Zulu",
+      "email": "z@gmail.com",
+      "password": "zulu123",
+      "mobile": "",
+      "id": 31
+    },
+    {
+      "firstName": "Lulu",
+      "lastName": "Zulu",
+      "email": "lu@gmail.com",
+      "password": "lu12345",
+      "mobile": "",
+      "id": 32
+    },
+    {
+      "firstName": "Lungelo",
+      "lastName": "Xulu",
+      "email": "xu@gmail.coz",
+      "password": "123456789",
+      "mobile": "",
+      "id": 33
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 34
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 35
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 36
+    },
+    {
+      "email": "hhhih",
+      "password": "jnnj",
+      "id": 37
+    },
+    {
+      "email": "gttgf",
+      "password": "gch",
+      "id": 38
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 39
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 40
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "fghj",
+      "id": 41
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01",
+      "id": 42
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hhhhhh",
+      "id": 43
+    },
+    {
+      "firstName": "Lungelo",
+      "lastName": "Ngema",
+      "email": "ngema@gmail.com",
+      "password": "123456677",
+      "mobile": "",
+      "id": 44
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "hlelwa@01yh",
+      "id": 45
+    },
+    {
+      "email": "hlelwa@gmail.com",
+      "password": "dtty",
+      "id": 46
+    },
+    {
+      "email": "maria@email.com\"",
+      "password": "12345",
+      "id": 47
+    },
+    {
+      "email": "maria@email.com\"",
+      "password": "12345",
+      "id": 48
+    },
+    {
+      "email": "maria@email.com\"",
+      "password": "12345",
+      "id": 49
+    },
+    {
+      "email": "maria@email.com\"",
+      "password": "123",
+      "id": 50
     }
   ],
   "products": [
@@ -151,7 +330,7 @@
       "title": "Diamond Ring",
       "price": 5000,
       "category": "Rings",
-      "description": "24-Karat",
+      "description": "24-Karat 9ct White Gold Diamond Ring set with: 1 x Square Cut Diamond of approx. 0.42cts J/K SI Total Diamond Carat: 0.42cts Finger Size: L 1/2 Mass",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvO5jXQ-vG0PJDeM-1BPDH6Lw9ucXznr_H_3IxnOBoqLAN_ZgOSOFFHgfUAEJfaHUmZevu0316MOkt6Cqu9BbgUrz0v-_ns7RnsbhOwE1TP7ESMQZ3XloFquzWUSUNUudo1osRVTMnwnc&usqp=CAc"
     },
     {
@@ -159,7 +338,7 @@
       "title": "Gold Ring",
       "price": 5000,
       "category": "Rings",
-      "description": "10-bars",
+      "description": "10-bars 9ct White Gold Diamond Ring set with: 1 x Square Cut Diamond of approx. 0.42cts J/K SI Total Diamond Carat: 0.42cts Finger Size: L 1/2 Mass",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc"
     },
     {
@@ -947,7 +1126,1050 @@
       "image": "https://michaelkors.scene7.com/is/image/MichaelKors/MK6957-0040_1?wid=1300"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "cart": [],
+      "id": 4
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 6
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 7
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        }
+      ],
+      "id": 8
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 9
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 10
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 11
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 12
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 13
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 14
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 15
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 16
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 17
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 18
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        }
+      ],
+      "id": 19
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 20
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 21
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 22
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 23
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 24
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 25
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 26
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        }
+      ],
+      "id": 27
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 28
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 29
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 30
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 31
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 32
+    },
+    {
+      "cart": [
+        {
+          "id": 5,
+          "title": "White Gold · Diamond",
+          "price": 9250,
+          "category": "Rings",
+          "description": "9ct White Gold Diamond Spring Ring (0.22ct) 9ct white gold diamond spring ring set with 48 round brilliant cut diamonds totalling 0.22ct Metal : White Gold Carat: 9ct Stone: Diamond Diamonds : 48 round brilliant cut diamonds totalling 0.22ct-colour H-I / Clarity SI-I Size: N (Can be sized at an extra cost)",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 33
+    },
+    {
+      "cart": [],
+      "id": 34
+    },
+    {
+      "cart": [
+        {
+          "id": 1,
+          "title": "Diamond Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "24-Karat",
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvO5jXQ-vG0PJDeM-1BPDH6Lw9ucXznr_H_3IxnOBoqLAN_ZgOSOFFHgfUAEJfaHUmZevu0316MOkt6Cqu9BbgUrz0v-_ns7RnsbhOwE1TP7ESMQZ3XloFquzWUSUNUudo1osRVTMnwnc&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 35
+    },
+    {
+      "cart": [
+        {
+          "id": 1,
+          "title": "Diamond Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "24-Karat",
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvO5jXQ-vG0PJDeM-1BPDH6Lw9ucXznr_H_3IxnOBoqLAN_ZgOSOFFHgfUAEJfaHUmZevu0316MOkt6Cqu9BbgUrz0v-_ns7RnsbhOwE1TP7ESMQZ3XloFquzWUSUNUudo1osRVTMnwnc&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 36
+    },
+    {
+      "cart": [
+        {
+          "id": 3,
+          "title": "14kt Gold Diamond Alinea Ring",
+          "price": 312000,
+          "category": "Rings",
+          "description": "Sold exclusively in South Africa by Collective & Co., this La Kaiser Gold Diamond Alinea is the perfect amount of subtle sparkle, and is the type of fine jewellery item that you can pair with pretty much anything and everything. Made of solid 14kt gold and pavé set with 5 natural white diamonds, this delicate ring completes any look for any season.",
+          "image": "https://collectiveandco.co.za/cdn/shop/products/IMG_0934.jpg?v=1612103716&width=1206",
+          "quantity": 1
+        }
+      ],
+      "id": 37
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 38
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 39
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 40
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 41
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 42
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 43
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 1
+        }
+      ],
+      "id": 44
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 2
+        }
+      ],
+      "id": 45
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 3
+        }
+      ],
+      "id": 46
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        }
+      ],
+      "id": 47
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        },
+        {
+          "id": 3,
+          "title": "14kt Gold Diamond Alinea Ring",
+          "price": 312000,
+          "category": "Rings",
+          "description": "Sold exclusively in South Africa by Collective & Co., this La Kaiser Gold Diamond Alinea is the perfect amount of subtle sparkle, and is the type of fine jewellery item that you can pair with pretty much anything and everything. Made of solid 14kt gold and pavé set with 5 natural white diamonds, this delicate ring completes any look for any season.",
+          "image": "https://collectiveandco.co.za/cdn/shop/products/IMG_0934.jpg?v=1612103716&width=1206",
+          "quantity": 1
+        }
+      ],
+      "id": 48
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        },
+        {
+          "id": 3,
+          "title": "14kt Gold Diamond Alinea Ring",
+          "price": 312000,
+          "category": "Rings",
+          "description": "Sold exclusively in South Africa by Collective & Co., this La Kaiser Gold Diamond Alinea is the perfect amount of subtle sparkle, and is the type of fine jewellery item that you can pair with pretty much anything and everything. Made of solid 14kt gold and pavé set with 5 natural white diamonds, this delicate ring completes any look for any season.",
+          "image": "https://collectiveandco.co.za/cdn/shop/products/IMG_0934.jpg?v=1612103716&width=1206",
+          "quantity": 2
+        }
+      ],
+      "id": 49
+    },
+    {
+      "cart": [
+        {
+          "id": 2,
+          "title": "Gold Ring",
+          "price": 5000,
+          "category": "Rings",
+          "description": "10-bars",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7h5VDhQFgJglLo4F0kIG2elXgrCyR2aa4eMDe29Om--Km1PRo0UB8U7RPGcD8WNaC5Z_AjhmbOmqRAH_xXeyhlLeuxAYz4FyU36OSCNio68PLr623SPxaY93NYvpixrfY387kszJmgg&usqp=CAc",
+          "quantity": 4
+        },
+        {
+          "id": 3,
+          "title": "14kt Gold Diamond Alinea Ring",
+          "price": 312000,
+          "category": "Rings",
+          "description": "Sold exclusively in South Africa by Collective & Co., this La Kaiser Gold Diamond Alinea is the perfect amount of subtle sparkle, and is the type of fine jewellery item that you can pair with pretty much anything and everything. Made of solid 14kt gold and pavé set with 5 natural white diamonds, this delicate ring completes any look for any season.",
+          "image": "https://collectiveandco.co.za/cdn/shop/products/IMG_0934.jpg?v=1612103716&width=1206",
+          "quantity": 3
+        }
+      ],
+      "id": 50
+    },
+    {
+      "cart": [
+        {
+          "id": 11,
+          "title": "0.015ct Diamond Eternity Ring - Platinum",
+          "price": 17251,
+          "category": "Rings",
+          "description": "Our Classic 0.015ct Diamond Eternity Ring is micro set with 0.015ct Diamonds and is available in 9kt, 14kt or 18kt Rose, Yellow or White Gold and Platinum. A modern example of classic sophistication, this makes for a truly timeless wedding ring or stacking ring.",
+          "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/62942db81fac3png_8.png",
+          "quantity": 1
+        }
+      ],
+      "id": 51
+    },
+    {
+      "cart": [
+        {
+          "id": 11,
+          "title": "0.015ct Diamond Eternity Ring - Platinum",
+          "price": 17251,
+          "category": "Rings",
+          "description": "Our Classic 0.015ct Diamond Eternity Ring is micro set with 0.015ct Diamonds and is available in 9kt, 14kt or 18kt Rose, Yellow or White Gold and Platinum. A modern example of classic sophistication, this makes for a truly timeless wedding ring or stacking ring.",
+          "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/62942db81fac3png_8.png",
+          "quantity": 2
+        }
+      ],
+      "id": 52
+    },
+    {
+      "cart": [
+        {
+          "id": 11,
+          "title": "0.015ct Diamond Eternity Ring - Platinum",
+          "price": 17251,
+          "category": "Rings",
+          "description": "Our Classic 0.015ct Diamond Eternity Ring is micro set with 0.015ct Diamonds and is available in 9kt, 14kt or 18kt Rose, Yellow or White Gold and Platinum. A modern example of classic sophistication, this makes for a truly timeless wedding ring or stacking ring.",
+          "image": "https://www.gnoce.co.za/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/62942db81fac3png_8.png",
+          "quantity": 3
+        }
+      ],
+      "id": 53
+    },
+    {
+      "cart": [
+        {
+          "id": 17,
+          "title": "Tessa Moissanite Engagement Ring",
+          "price": 61590,
+          "category": "Rings",
+          "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
+          "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938",
+          "quantity": 1
+        }
+      ],
+      "id": 54
+    },
+    {
+      "cart": [
+        {
+          "id": 17,
+          "title": "Tessa Moissanite Engagement Ring",
+          "price": 61590,
+          "category": "Rings",
+          "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
+          "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938",
+          "quantity": 2
+        }
+      ],
+      "id": 55
+    },
+    {
+      "cart": [
+        {
+          "id": 17,
+          "title": "Tessa Moissanite Engagement Ring",
+          "price": 61590,
+          "category": "Rings",
+          "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
+          "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938",
+          "quantity": 3
+        }
+      ],
+      "id": 56
+    },
+    {
+      "cart": [
+        {
+          "id": 17,
+          "title": "Tessa Moissanite Engagement Ring",
+          "price": 61590,
+          "category": "Rings",
+          "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
+          "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938",
+          "quantity": 4
+        }
+      ],
+      "id": 57
+    },
+    {
+      "cart": [
+        {
+          "id": 17,
+          "title": "Tessa Moissanite Engagement Ring",
+          "price": 61590,
+          "category": "Rings",
+          "description": "A Superb set with a Halo Cathedral design and a shared prong pave band.",
+          "image": "https://ralphjacobs.co.za/cdn/shop/products/TessaSetWG_93b7dd9d-ee78-4a3c-8d97-c9d0eeecde9a.png?v=1681733938",
+          "quantity": 5
+        }
+      ],
+      "id": 58
+    },
+    {
+      "cart": [
+        {
+          "id": 7,
+          "title": "Tiny Solitaire Diamond Ring",
+          "price": 3750,
+          "category": "Rings",
+          "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
+          "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750",
+          "quantity": 1
+        }
+      ],
+      "id": 59
+    },
+    {
+      "cart": [
+        {
+          "id": 7,
+          "title": "Tiny Solitaire Diamond Ring",
+          "price": 3750,
+          "category": "Rings",
+          "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
+          "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750",
+          "quantity": 1
+        }
+      ],
+      "id": 60
+    },
+    {
+      "cart": [
+        {
+          "id": 7,
+          "title": "Tiny Solitaire Diamond Ring",
+          "price": 3750,
+          "category": "Rings",
+          "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
+          "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750",
+          "quantity": 2
+        }
+      ],
+      "id": 61
+    },
+    {
+      "cart": [
+        {
+          "id": 7,
+          "title": "Tiny Solitaire Diamond Ring",
+          "price": 3750,
+          "category": "Rings",
+          "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
+          "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750",
+          "quantity": 1
+        }
+      ],
+      "id": 62
+    },
+    {
+      "cart": [],
+      "id": 63
+    },
+    {
+      "cart": [
+        {
+          "id": 10,
+          "title": "Women's · White Gold · Diamond",
+          "price": 10900,
+          "category": "Rings",
+          "description": "A striking balance between classic and organic, this ring looks gorgeous as a dainty Engagement ring or could make for a stunning anniversary gift to be treasured for a lifetime. Best of all its currently on a LAUNCH SALE! Oval Diamond Ring is crafted out of solid 9ct gold and is set with the following: 1 x 0.40ct Oval Cut Lab Diamond in the centre (Colour: F/G, Clarity: VVS/VS) 1 x 0.01ct and 2 x 0.015ct Round Brilliant Cut Lab Diamonds in the Band.",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5EsAacJw4HnL_IB_wP3dUKBwpYy6lhRE58REjXyEsaQ3a9RWWPDWp1hwsrE3LgkP8BeqL5I1iP_q1xOQNfnAg_E07IokA7UScTbINqY_8mC35ALjxdFa4&usqp=CAE",
+          "quantity": 1
+        }
+      ],
+      "id": 64
+    },
+    {
+      "cart": [
+        {
+          "id": 10,
+          "title": "Women's · White Gold · Diamond",
+          "price": 10900,
+          "category": "Rings",
+          "description": "A striking balance between classic and organic, this ring looks gorgeous as a dainty Engagement ring or could make for a stunning anniversary gift to be treasured for a lifetime. Best of all its currently on a LAUNCH SALE! Oval Diamond Ring is crafted out of solid 9ct gold and is set with the following: 1 x 0.40ct Oval Cut Lab Diamond in the centre (Colour: F/G, Clarity: VVS/VS) 1 x 0.01ct and 2 x 0.015ct Round Brilliant Cut Lab Diamonds in the Band.",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5EsAacJw4HnL_IB_wP3dUKBwpYy6lhRE58REjXyEsaQ3a9RWWPDWp1hwsrE3LgkP8BeqL5I1iP_q1xOQNfnAg_E07IokA7UScTbINqY_8mC35ALjxdFa4&usqp=CAE",
+          "quantity": 2
+        }
+      ],
+      "id": 65
+    },
+    {
+      "cart": [
+        {
+          "id": 8,
+          "title": "9ct White Gold Illusion Set Cluster Twist Band Diamond Ring",
+          "price": 21595,
+          "category": "Rings",
+          "description": "The Bella Collection celebrates the beauty of true love. Inspired by the romantic design of vintage jewellery, this exquisite engagement ring is the perfect way to express your love…for years to come. Set in 9ct White Gold, this piece features 0.50ct of white, round brilliant diamonds in a fine pav? setting with antique millgrain detailing. The centre is further accentuated by a diamond halo…making this ring a little piece of heaven!",
+          "image": "",
+          "quantity": 1
+        }
+      ],
+      "id": 66
+    },
+    {
+      "cart": [
+        {
+          "id": 8,
+          "title": "9ct White Gold Illusion Set Cluster Twist Band Diamond Ring",
+          "price": 21595,
+          "category": "Rings",
+          "description": "The Bella Collection celebrates the beauty of true love. Inspired by the romantic design of vintage jewellery, this exquisite engagement ring is the perfect way to express your love…for years to come. Set in 9ct White Gold, this piece features 0.50ct of white, round brilliant diamonds in a fine pav? setting with antique millgrain detailing. The centre is further accentuated by a diamond halo…making this ring a little piece of heaven!",
+          "image": "",
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "title": "Tiny Solitaire Diamond Ring",
+          "price": 3750,
+          "category": "Rings",
+          "description": "A singular round diamond, set in claws on a 1mm round wire band. Pairs nicely with a circle ring. 1.9mm Round Brilliant sustainably grown diamond. 0.03ct Total diamond weight. Solid 9ct, never plated. Available in white, yellow & rose.",
+          "image": "https://moxiejewellery.com/cdn/shop/products/IMG_0809.jpg?v=1667987556&width=750",
+          "quantity": 1
+        }
+      ],
+      "id": 67
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 1
+        }
+      ],
+      "id": 68
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 2
+        }
+      ],
+      "id": 69
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 3
+        }
+      ],
+      "id": 70
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 4
+        }
+      ],
+      "id": 71
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 5
+        }
+      ],
+      "id": 72
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 6
+        }
+      ],
+      "id": 73
+    },
+    {
+      "cart": [
+        {
+          "id": 26,
+          "title": "Swarovski Infinity Y Necklace",
+          "price": 2884,
+          "category": "necklace",
+          "description": "This Y necklace from Swarovski is the perfect choice for classy chic everyday wear. The shiny rose gold chain flows through an infinity symbol with an abundance of sparkling elements. The eye-catcher at the end of the chain adds an extra dose of sparkle to the creation. This is a charming gift idea for many occasions. This necklace by Swarovski from the Swarovski Infinity collection is a carefully crafted piece of jewelry made of metal. The jewelry measures 34 cm and can be securely closed with drawstring, a carabiner. With the appealing design (infinity symbol) and details of Swarovski crystal, this necklace is a beautiful piece of jewelry that you do not want to take off so quickly. Also a nice gift idea for birthdays, milestones reached or as a generous surprise for a loved one.",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4G3WEuYRCwdcNkDKVt0zXPEwU9_zN49cxeaeXNpHluJd21HvdVmiVGfslHaBwkWMTD8ysQWnXn6usfnzgS3VtbC7XaW43buElk4zrbslEJPI7fXiHTpaC",
+          "quantity": 7
+        }
+      ],
+      "id": 74
+    }
+  ],
   "rings": [
     {
       "id": 1,

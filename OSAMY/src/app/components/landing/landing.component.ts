@@ -18,6 +18,7 @@ export class LandingComponent implements OnInit{
     
   }
 
+  i = document.getElementById("rings");
   pruductsData: any = [];
   ngOnInit(): void {
     this.store.getAllProducts().subscribe((allData)=>{

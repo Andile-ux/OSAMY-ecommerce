@@ -17,9 +17,7 @@
     justify-content: center;
     
 }
-.view{
-    
-}
+
 .v{
     font-size: 0.7em;
     font-weight: bold;
@@ -45,7 +43,9 @@
 .prod{
     padding-top: 1%;
     border: 2em;
-    box-shadow: 0.2em 0.2em 0.2em rgb(223, 226, 229);
+    box-shadow: -3px 3px 29px 0px rgba(0,0,0,0.72);
+-webkit-box-shadow: -3px 3px 29px 0px rgba(0,0,0,0.72);
+-moz-box-shadow: -3px 3px 29px 0px rgba(0,0,0,0.72);
     column-gap: 400em;
     width: 14em;
     height: 18em;

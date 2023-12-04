@@ -12,6 +12,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
 //import { RegisterComponent } from './components/register/register.component';
 import {ReactiveFormsModule} from '@angular/forms';
+import { LogoutComponent } from './components/logout/logout.component';
+
 
 
 @NgModule({
@@ -21,6 +23,8 @@ import {ReactiveFormsModule} from '@angular/forms';
     CartComponent,
     LoginComponent,
     LandingComponent,
+    LogoutComponent,
+
    //RegisterComponent
   ],
   imports: [

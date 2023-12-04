@@ -25,4 +25,19 @@ export class StoreServiceService {
   getProductById(id: any){
     return this.http.get(`${this.pruductsURL}/${id}`)
   }
+  getAllRings(){
+    return this.http.get("http://localhost:3000/rings");
+  }
+  getAllNecklace(){
+    return this.http.get("http://localhost:3000/necklace");
+  }
+  getAllBrace(){
+    return this.http.get("http://localhost:3000/bracelets");
+  }
+  getAllEar(){
+    return this.http.get("http://localhost:3000/earrings");
+  }
+  getAllWatch(){
+    return this.http.get("http://localhost:3000/watches");
+  }
 }

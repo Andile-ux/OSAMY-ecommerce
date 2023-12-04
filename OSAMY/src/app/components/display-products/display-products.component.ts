@@ -3,6 +3,7 @@ import { ActivatedRoute } from '@angular/router';
 
 import { StoreServiceService } from 'src/app/services/store-service.service';
 import {CartService} from 'src/app/services/cart.service';
+import { JwtService } from 'src/app/services/jwt.service';
 @Component({
   selector: 'app-display-products',
   templateUrl: './display-products.component.html',
@@ -10,7 +11,7 @@ import {CartService} from 'src/app/services/cart.service';
 })
 export class DisplayProductsComponent implements OnInit{
 
-  constructor(private store:StoreServiceService,private cart: CartService, private activatedRoute: ActivatedRoute){};
+  constructor(private store:StoreServiceService,private cart: CartService, private activatedRoute: ActivatedRoute, private jwtService: JwtService){};
 
   //create property to be called (same as array list)
   pruductData: any = [];
@@ -45,5 +46,10 @@ export class DisplayProductsComponent implements OnInit{
         return a;
       }
     })
+  }
+
+
+  isLoggedIn(): boolean {
+    return this.jwtService.isLoggedIn();
   }
 }
